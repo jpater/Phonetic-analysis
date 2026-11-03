@@ -1,0 +1,4602 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3770.62498866213 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 3770.62498866213 
+        intervals: size = 1147 
+        intervals [1]:
+            xmin = 0 
+            xmax = 55.545003 
+            text = "" 
+        intervals [2]:
+            xmin = 55.545003 
+            xmax = 58.325 
+            text = "I remember about my grandfather Doubleday" 
+        intervals [3]:
+            xmin = 58.325 
+            xmax = 58.96 
+            text = "" 
+        intervals [4]:
+            xmin = 58.96 
+            xmax = 60.859997 
+            text = "Farm you know in North Dana" 
+        intervals [5]:
+            xmin = 60.859997 
+            xmax = 62.08 
+            text = "" 
+        intervals [6]:
+            xmin = 62.08 
+            xmax = 68.7 
+            text = "It was part of a post which he bought in eighteen eighty three" 
+        intervals [7]:
+            xmin = 68.7 
+            xmax = 69.68 
+            text = "" 
+        intervals [8]:
+            xmin = 69.68 
+            xmax = 71.34 
+            text = "The year my father" 
+        intervals [9]:
+            xmin = 71.34 
+            xmax = 72.075 
+            text = "" 
+        intervals [10]:
+            xmin = 72.075 
+            xmax = 74.215 
+            text = "Myron Doubleday was born" 
+        intervals [11]:
+            xmin = 74.215 
+            xmax = 75.834996 
+            text = "" 
+        intervals [12]:
+            xmin = 75.834996 
+            xmax = 79.64976800553882 
+            text = "And when my grandfather Rollin Doubleday" 
+        intervals [13]:
+            xmin = 79.64976800553882 
+            xmax = 79.915 
+            text = "" 
+        intervals [14]:
+            xmin = 79.915 
+            xmax = 83.015 
+            text = "Bobby it was known as the Gleeson Place" 
+        intervals [15]:
+            xmin = 83.015 
+            xmax = 85.040005 
+            text = "" 
+        intervals [16]:
+            xmin = 85.040005 
+            xmax = 91.26 
+            text = "And it included not only the farm and pastures but the mill site as well" 
+        intervals [17]:
+            xmin = 91.26 
+            xmax = 92.640004 
+            text = "" 
+        intervals [18]:
+            xmin = 92.640004 
+            xmax = 96.060005 
+            text = "The mill was a water powered mill" 
+        intervals [19]:
+            xmin = 96.060005 
+            xmax = 96.834996 
+            text = "" 
+        intervals [20]:
+            xmin = 96.834996 
+            xmax = 101.134995 
+            text = "located on Fever Brook in North Dana" 
+        intervals [21]:
+            xmin = 101.134995 
+            xmax = 102.595 
+            text = "" 
+        intervals [22]:
+            xmin = 102.595 
+            xmax = 113.56 
+            text = "and the dam was just below the where the two branches east and west branches of Fever Brook came together" 
+        intervals [23]:
+            xmin = 113.56 
+            xmax = 117.34 
+            text = "" 
+        intervals [24]:
+            xmin = 117.34 
+            xmax = 120.6 
+            text = "The road from North Dana to Dana Center" 
+        intervals [25]:
+            xmin = 120.6 
+            xmax = 121.58 
+            text = "" 
+        intervals [26]:
+            xmin = 121.58 
+            xmax = 122.68 
+            text = "went across" 
+        intervals [27]:
+            xmin = 122.68 
+            xmax = 123.419995 
+            text = "" 
+        intervals [28]:
+            xmin = 123.419995 
+            xmax = 125.64 
+            text = "part of the mill pond" 
+        intervals [29]:
+            xmin = 125.64 
+            xmax = 126.54 
+            text = "" 
+        intervals [30]:
+            xmin = 126.54 
+            xmax = 127.799995 
+            text = "on a bridge" 
+        intervals [31]:
+            xmin = 127.799995 
+            xmax = 130.32501 
+            text = "" 
+        intervals [32]:
+            xmin = 130.32501 
+            xmax = 135.26501 
+            text = "The dam being a couple hundred yards below this road on the book" 
+        intervals [33]:
+            xmin = 135.26501 
+            xmax = 136.40501 
+            text = "" 
+        intervals [34]:
+            xmin = 136.40501 
+            xmax = 139.26501 
+            text = "As I recall it the dam was about" 
+        intervals [35]:
+            xmin = 139.26501 
+            xmax = 139.76501 
+            text = "" 
+        intervals [36]:
+            xmin = 139.76501 
+            xmax = 143.585 
+            text = "ten feet high and it was built of stone" 
+        intervals [37]:
+            xmin = 143.585 
+            xmax = 144.98 
+            text = "" 
+        intervals [38]:
+            xmin = 144.98 
+            xmax = 147.36 
+            text = "At one end of the dam was the" 
+        intervals [39]:
+            xmin = 147.36 
+            xmax = 148.58 
+            text = "" 
+        intervals [40]:
+            xmin = 148.58 
+            xmax = 149.92 
+            text = "control works" 
+        intervals [41]:
+            xmin = 149.92 
+            xmax = 151.06 
+            text = "" 
+        intervals [42]:
+            xmin = 151.06 
+            xmax = 153.12 
+            text = "And from this" 
+        intervals [43]:
+            xmin = 153.12 
+            xmax = 154.25999 
+            text = "" 
+        intervals [44]:
+            xmin = 154.25999 
+            xmax = 156.23999 
+            text = "a wooden penstock" 
+        intervals [45]:
+            xmin = 156.23999 
+            xmax = 156.895 
+            text = "" 
+        intervals [46]:
+            xmin = 156.895 
+            xmax = 158.555 
+            text = "ran down to the mill" 
+        intervals [47]:
+            xmin = 158.555 
+            xmax = 159.535 
+            text = "" 
+        intervals [48]:
+            xmin = 159.535 
+            xmax = 162.955 
+            text = "This penstock as I recall was square" 
+        intervals [49]:
+            xmin = 162.955 
+            xmax = 163.615 
+            text = "" 
+        intervals [50]:
+            xmin = 163.615 
+            xmax = 164.875 
+            text = "made of four" 
+        intervals [51]:
+            xmin = 164.875 
+            xmax = 165.695 
+            text = "" 
+        intervals [52]:
+            xmin = 165.695 
+            xmax = 166.715 
+            text = "large clank" 
+        intervals [53]:
+            xmin = 166.715 
+            xmax = 168.895 
+            text = "" 
+        intervals [54]:
+            xmin = 168.895 
+            xmax = 173.74 
+            text = "each about two feet wide making the penstock about a two feet square" 
+        intervals [55]:
+            xmin = 173.74 
+            xmax = 174.88 
+            text = "" 
+        intervals [56]:
+            xmin = 174.88 
+            xmax = 179.940231630346 
+            text = "and held together by iron straps and iron bars" 
+        intervals [57]:
+            xmin = 179.940231630346 
+            xmax = 181.239444783173 
+            text = "" 
+        intervals [58]:
+            xmin = 181.239444783173 
+            xmax = 185.505 
+            text = "This penstock led down to the water wheel" 
+        intervals [59]:
+            xmin = 185.505 
+            xmax = 186.025 
+            text = "" 
+        intervals [60]:
+            xmin = 186.025 
+            xmax = 190.292776937462 
+            text = "underneath the mill This was not the" 
+        intervals [61]:
+            xmin = 190.292776937462 
+            xmax = 190.665 
+            text = "" 
+        intervals [62]:
+            xmin = 190.665 
+            xmax = 193.935442312683 
+            text = "older type of overshot wheel or" 
+        intervals [63]:
+            xmin = 193.935442312683 
+            xmax = 194.025 
+            text = "" 
+        intervals [64]:
+            xmin = 194.025 
+            xmax = 202.57 
+            text = "undershot wheel but it was a turbine type which probably at that time was quite modern" 
+        intervals [65]:
+            xmin = 202.57 
+            xmax = 204.03001 
+            text = "" 
+        intervals [66]:
+            xmin = 204.03001 
+            xmax = 205.61 
+            text = "This turbine was" 
+        intervals [67]:
+            xmin = 205.61 
+            xmax = 206.35 
+            text = "" 
+        intervals [68]:
+            xmin = 206.35 
+            xmax = 208.57 
+            text = "inside of a steel case" 
+        intervals [69]:
+            xmin = 208.57 
+            xmax = 209.15 
+            text = "" 
+        intervals [70]:
+            xmin = 209.15 
+            xmax = 215.16501 
+            text = "which I remember as being about four feet in diameter and perhaps four feet tall" 
+        intervals [71]:
+            xmin = 215.16501 
+            xmax = 216.865 
+            text = "" 
+        intervals [72]:
+            xmin = 216.865 
+            xmax = 218.832839286034 
+            text = "The penstock" 
+        intervals [73]:
+            xmin = 218.832839286034 
+            xmax = 219.265 
+            text = "" 
+        intervals [74]:
+            xmin = 219.265 
+            xmax = 226.205 
+            text = "could be opened and closed by a wheel up on the floor of the mill" 
+        intervals [75]:
+            xmin = 226.205 
+            xmax = 227.42 
+            text = "" 
+        intervals [76]:
+            xmin = 227.42 
+            xmax = 231.08 
+            text = "And the water turbine or water wheel" 
+        intervals [77]:
+            xmin = 231.08 
+            xmax = 232.14 
+            text = "" 
+        intervals [78]:
+            xmin = 232.14 
+            xmax = 234.36 
+            text = "drove the main shaft" 
+        intervals [79]:
+            xmin = 234.36 
+            xmax = 236.765993535114 
+            text = "" 
+        intervals [80]:
+            xmin = 236.765993535114 
+            xmax = 238.721510239368 
+            text = "which in turn" 
+        intervals [81]:
+            xmin = 238.721510239368 
+            xmax = 239.1 
+            text = "" 
+        intervals [82]:
+            xmin = 239.1 
+            xmax = 241.4 
+            text = "drove a rubber belt" 
+        intervals [83]:
+            xmin = 241.4 
+            xmax = 241.94499 
+            text = "" 
+        intervals [84]:
+            xmin = 241.94499 
+            xmax = 246.72499 
+            text = "which I remember as being over a foot wide perhaps fifteen inches wide" 
+        intervals [85]:
+            xmin = 246.72499 
+            xmax = 247.78499 
+            text = "" 
+        intervals [86]:
+            xmin = 247.78499 
+            xmax = 251.44499 
+            text = "And this led up to the shaft of the saw" 
+        intervals [87]:
+            xmin = 251.44499 
+            xmax = 252.02499 
+            text = "" 
+        intervals [88]:
+            xmin = 252.02499 
+            xmax = 253.36499 
+            text = "of course it also" 
+        intervals [89]:
+            xmin = 253.36499 
+            xmax = 254.28 
+            text = "" 
+        intervals [90]:
+            xmin = 254.28 
+            xmax = 258.58 
+            text = "ran any other machinery that was in the mill too" 
+        intervals [91]:
+            xmin = 258.58 
+            xmax = 260.76 
+            text = "" 
+        intervals [92]:
+            xmin = 260.76 
+            xmax = 262.34 
+            text = "The saw was" 
+        intervals [93]:
+            xmin = 262.34 
+            xmax = 262.92 
+            text = "" 
+        intervals [94]:
+            xmin = 262.92 
+            xmax = 265.46 
+            text = "probably about four feet in diameter" 
+        intervals [95]:
+            xmin = 265.46 
+            xmax = 266.54503 
+            text = "" 
+        intervals [96]:
+            xmin = 266.54503 
+            xmax = 271.40503 
+            text = "So it was capable of handling a lot of what the two feet in diameter" 
+        intervals [97]:
+            xmin = 271.40503 
+            xmax = 274.465 
+            text = "" 
+        intervals [98]:
+            xmin = 274.465 
+            xmax = 277.725 
+            text = "The mill was normally operated by" 
+        intervals [99]:
+            xmin = 277.725 
+            xmax = 278.38502 
+            text = "" 
+        intervals [100]:
+            xmin = 278.38502 
+            xmax = 280.22 
+            text = "three men" 
+        intervals [101]:
+            xmin = 280.22 
+            xmax = 281.12 
+            text = "" 
+        intervals [102]:
+            xmin = 281.12 
+            xmax = 284.94 
+            text = "a roller a sawyer an a marker" 
+        intervals [103]:
+            xmin = 284.94 
+            xmax = 285.92 
+            text = "" 
+        intervals [104]:
+            xmin = 285.92 
+            xmax = 291.34 
+            text = "And if the fourth was available right he handled the slab" 
+        intervals [105]:
+            xmin = 291.34 
+            xmax = 293.2 
+            text = "" 
+        intervals [106]:
+            xmin = 293.2 
+            xmax = 294.462850931058 
+            text = "The roller" 
+        intervals [107]:
+            xmin = 294.462850931058 
+            xmax = 295.885 
+            text = "" 
+        intervals [108]:
+            xmin = 295.885 
+            xmax = 299.24387980058 
+            text = "put the logs which were on the skidway" 
+        intervals [109]:
+            xmin = 299.24387980058 
+            xmax = 299.885 
+            text = "" 
+        intervals [110]:
+            xmin = 299.885 
+            xmax = 303.305 
+            text = "and rolled them from there onto the carriage" 
+        intervals [111]:
+            xmin = 303.305 
+            xmax = 305.005 
+            text = "" 
+        intervals [112]:
+            xmin = 305.005 
+            xmax = 306.025 
+            text = "Now the carriage" 
+        intervals [113]:
+            xmin = 306.025 
+            xmax = 306.605 
+            text = "" 
+        intervals [114]:
+            xmin = 306.605 
+            xmax = 312.62 
+            text = "ran on a set of rails similar to railroad rails only smaller" 
+        intervals [115]:
+            xmin = 312.62 
+            xmax = 313.52 
+            text = "" 
+        intervals [116]:
+            xmin = 313.52 
+            xmax = 316.7 
+            text = "and the carriage was probably around" 
+        intervals [117]:
+            xmin = 316.7 
+            xmax = 317.92 
+            text = "" 
+        intervals [118]:
+            xmin = 317.92 
+            xmax = 319.98 
+            text = "eighteen or twenty feet long" 
+        intervals [119]:
+            xmin = 319.98 
+            xmax = 320.48002 
+            text = "" 
+        intervals [120]:
+            xmin = 320.48002 
+            xmax = 321.18002 
+            text = "altogether" 
+        intervals [121]:
+            xmin = 321.18002 
+            xmax = 323.265 
+            text = "" 
+        intervals [122]:
+            xmin = 323.265 
+            xmax = 325.08502 
+            text = "And was" 
+        intervals [123]:
+            xmin = 325.08502 
+            xmax = 325.66502 
+            text = "" 
+        intervals [124]:
+            xmin = 325.66502 
+            xmax = 330.285 
+            text = "made so that the upper part of the carriage could be" 
+        intervals [125]:
+            xmin = 330.285 
+            xmax = 330.78502 
+            text = "" 
+        intervals [126]:
+            xmin = 330.78502 
+            xmax = 331.48502 
+            text = "moved" 
+        intervals [127]:
+            xmin = 331.48502 
+            xmax = 332.22502 
+            text = "" 
+        intervals [128]:
+            xmin = 332.22502 
+            xmax = 334.962365815714 
+            text = "crossways of the" 
+        intervals [129]:
+            xmin = 334.962365815714 
+            xmax = 335.056123465918 
+            text = "" 
+        intervals [130]:
+            xmin = 335.056123465918 
+            xmax = 340.2 
+            text = "carriage toward the saw the carriage ran back and forth right past the saw" 
+        intervals [131]:
+            xmin = 340.2 
+            xmax = 341.82002 
+            text = "" 
+        intervals [132]:
+            xmin = 341.82002 
+            xmax = 348.44 
+            text = "So the roller rolled a log onto the carriage and it was held there by two" 
+        intervals [133]:
+            xmin = 348.44 
+            xmax = 349.10502 
+            text = "" 
+        intervals [134]:
+            xmin = 349.10502 
+            xmax = 351.382125969677 
+            text = "heavy iron dog" 
+        intervals [135]:
+            xmin = 351.382125969677 
+            xmax = 352.145 
+            text = "" 
+        intervals [136]:
+            xmin = 352.145 
+            xmax = 358.36502 
+            text = "which was shot pointed and were raised up and down on steel posts" 
+        intervals [137]:
+            xmin = 358.36502 
+            xmax = 359.50502 
+            text = "" 
+        intervals [138]:
+            xmin = 359.50502 
+            xmax = 364.685 
+            text = "The roller would jam me two dogs into the log and this would hold it." 
+        intervals [139]:
+            xmin = 364.685 
+            xmax = 365.74 
+            text = "" 
+        intervals [140]:
+            xmin = 365.74 
+            xmax = 375.47998 
+            text = "The sawyer would then move the carriage over by means of a handle which he could pull on move the carriage over" 
+        intervals [141]:
+            xmin = 375.47998 
+            xmax = 376.14 
+            text = "" 
+        intervals [142]:
+            xmin = 376.14 
+            xmax = 381.385 
+            text = "so that ours would passed by the saw the saw would cut off" 
+        intervals [143]:
+            xmin = 381.385 
+            xmax = 382.045 
+            text = "" 
+        intervals [144]:
+            xmin = 382.045 
+            xmax = 384.105 
+            text = "a section of the log" 
+        intervals [145]:
+            xmin = 384.105 
+            xmax = 385.245 
+            text = "" 
+        intervals [146]:
+            xmin = 385.245 
+            xmax = 393.39 
+            text = "And the first section that was cut off was called the slab because this contained mostly bark" 
+        intervals [147]:
+            xmin = 393.39 
+            xmax = 394.79002 
+            text = "" 
+        intervals [148]:
+            xmin = 394.79002 
+            xmax = 402.29 
+            text = "And usually the way they did it was they would saw off the slab in other words take the first cut" 
+        intervals [149]:
+            xmin = 402.29 
+            xmax = 403.03 
+            text = "" 
+        intervals [150]:
+            xmin = 403.03 
+            xmax = 409.81497 
+            text = "Then the sawyer would run the carriage backwards and then move the carriage over" 
+        intervals [151]:
+            xmin = 409.81497 
+            xmax = 411.515 
+            text = "" 
+        intervals [152]:
+            xmin = 411.515 
+            xmax = 419.335 
+            text = "certain amount if he wanted a one inch board he would move it one inch if he wanted a two inch board he would move it two inches and so on" 
+        intervals [153]:
+            xmin = 419.335 
+            xmax = 420.05 
+            text = "" 
+        intervals [154]:
+            xmin = 420.05 
+            xmax = 430.99 
+            text = "And then he would run the carriage forward past the saw again and the saw would cut off whatever thickness of board the sawyer had moved the carriage for" 
+        intervals [155]:
+            xmin = 430.99 
+            xmax = 431.65 
+            text = "" 
+        intervals [156]:
+            xmin = 431.65 
+            xmax = 433.38998 
+            text = "After they'd taken off" 
+        intervals [157]:
+            xmin = 433.38998 
+            xmax = 433.96998 
+            text = "" 
+        intervals [158]:
+            xmin = 433.96998 
+            xmax = 435.87 
+            text = "several boards this way" 
+        intervals [159]:
+            xmin = 435.87 
+            xmax = 437.03502 
+            text = "" 
+        intervals [160]:
+            xmin = 437.03502 
+            xmax = 438.295 
+            text = "They would then" 
+        intervals [161]:
+            xmin = 438.295 
+            xmax = 439.195 
+            text = "" 
+        intervals [162]:
+            xmin = 439.195 
+            xmax = 440.775 
+            text = "roll the rod over" 
+        intervals [163]:
+            xmin = 440.775 
+            xmax = 441.835 
+            text = "" 
+        intervals [164]:
+            xmin = 441.835 
+            xmax = 446.935 
+            text = "So that the part which had already been sawed would be flat up against the carriage" 
+        intervals [165]:
+            xmin = 446.935 
+            xmax = 447.75502 
+            text = "" 
+        intervals [166]:
+            xmin = 447.75502 
+            xmax = 455.67 
+            text = "And this time the two rods were turned around so that a shorter bar would be holding the" 
+        intervals [167]:
+            xmin = 455.67 
+            xmax = 456.89 
+            text = "" 
+        intervals [168]:
+            xmin = 456.89 
+            xmax = 462.63 
+            text = "log in place on the carriage so that the saw could saw fairly close to the end" 
+        intervals [169]:
+            xmin = 462.63 
+            xmax = 463.69 
+            text = "" 
+        intervals [170]:
+            xmin = 463.69 
+            xmax = 465.83002 
+            text = "Then they would continue the process" 
+        intervals [171]:
+            xmin = 465.83002 
+            xmax = 467.735 
+            text = "" 
+        intervals [172]:
+            xmin = 467.735 
+            xmax = 476.595 
+            text = "of running the carriage forward past the saw a first cut would take off a slab and then the next cut would take off board which" 
+        intervals [173]:
+            xmin = 476.595 
+            xmax = 477.335 
+            text = "" 
+        intervals [174]:
+            xmin = 477.335 
+            xmax = 482.55 
+            text = "had round edges in other words they still had the bark on the two sides of them" 
+        intervals [175]:
+            xmin = 482.55 
+            xmax = 483.37 
+            text = "" 
+        intervals [176]:
+            xmin = 483.37 
+            xmax = 487.11 
+            text = "Now if they wanted to have square edge board" 
+        intervals [177]:
+            xmin = 487.11 
+            xmax = 488.01 
+            text = "" 
+        intervals [178]:
+            xmin = 488.01 
+            xmax = 497.69498 
+            text = "they would nearly cut four slabs off of the log leaving a four sided log which had no bark left on it at all" 
+        intervals [179]:
+            xmin = 497.69498 
+            xmax = 498.195 
+            text = "" 
+        intervals [180]:
+            xmin = 498.195 
+            xmax = 501.055 
+            text = "And they were then proceeded as before" 
+        intervals [181]:
+            xmin = 501.055 
+            xmax = 501.71498 
+            text = "" 
+        intervals [182]:
+            xmin = 501.71498 
+            xmax = 505.31498 
+            text = "and this would result in squarriage boards" 
+        intervals [183]:
+            xmin = 505.31498 
+            xmax = 506.515 
+            text = "" 
+        intervals [184]:
+            xmin = 506.515 
+            xmax = 515.01 
+            text = "Now as the carriage went past the saw the board which had been sawed off from the log would" 
+        intervals [185]:
+            xmin = 515.01 
+            xmax = 515.51 
+            text = "" 
+        intervals [186]:
+            xmin = 515.51 
+            xmax = 517.81 
+            text = "just fall over onto a bench" 
+        intervals [187]:
+            xmin = 517.81 
+            xmax = 518.95 
+            text = "" 
+        intervals [188]:
+            xmin = 518.95 
+            xmax = 521.685045230404 
+            text = "And then the marker would" 
+        intervals [189]:
+            xmin = 521.685045230404 
+            xmax = 521.99 
+            text = "" 
+        intervals [190]:
+            xmin = 521.99 
+            xmax = 533.675 
+            text = "mark on it the number of board feet in that board of course a board foot is a board one foot wide one foot long and one inch thick" 
+        intervals [191]:
+            xmin = 533.675 
+            xmax = 534.655 
+            text = "" 
+        intervals [192]:
+            xmin = 534.655 
+            xmax = 538.39496 
+            text = "So if you had a board which was ten feet long" 
+        intervals [193]:
+            xmin = 538.39496 
+            xmax = 539.35 
+            text = "" 
+        intervals [194]:
+            xmin = 539.35 
+            xmax = 553.25 
+            text = "one foot wide and one inch thick that board would have ten board feet in it and the marker would have a piece of heavy crayon and he would mark a ten on that board" 
+        intervals [195]:
+            xmin = 553.25 
+            xmax = 553.625 
+            text = "" 
+        intervals [196]:
+            xmin = 553.625 
+            xmax = 562.40497 
+            text = "If the board was the same size but two inches thick it would have twenty board feet in it and he'd mark a twenty on it and so on" 
+        intervals [197]:
+            xmin = 562.40497 
+            xmax = 563.625 
+            text = "" 
+        intervals [198]:
+            xmin = 563.625 
+            xmax = 567.285 
+            text = "He also had a peg board hanging on the wall" 
+        intervals [199]:
+            xmin = 567.285 
+            xmax = 568.27 
+            text = "" 
+        intervals [200]:
+            xmin = 568.27 
+            xmax = 579.44995 
+            text = "And by moving the pigs into different holes in this board he was able to keep track of the number of board feet of lumber that was sawed during the day by the mill" 
+        intervals [201]:
+            xmin = 579.44995 
+            xmax = 579.74 
+            text = "" 
+        intervals [202]:
+            xmin = 579.74 
+            xmax = 585 
+            text = "And on a good day they would saw several thousand board feet of lumber" 
+        intervals [203]:
+            xmin = 585 
+            xmax = 586.844988662132 
+            text = "" 
+        intervals [204]:
+            xmin = 586.844988662132 
+            xmax = 587.204988662132 
+            text = "" 
+        intervals [205]:
+            xmin = 587.204988662132 
+            xmax = 591.584988662132 
+            text = "A teamster would then take this lumber which had just been sawed" 
+        intervals [206]:
+            xmin = 591.584988662132 
+            xmax = 592.244988662132 
+            text = "" 
+        intervals [207]:
+            xmin = 592.244988662132 
+            xmax = 592.944988662132 
+            text = "and" 
+        intervals [208]:
+            xmin = 592.944988662132 
+            xmax = 593.684988662132 
+            text = "" 
+        intervals [209]:
+            xmin = 593.684988662132 
+            xmax = 598.144988662131 
+            text = "load it under his wagon or it was in the wintertime his sled" 
+        intervals [210]:
+            xmin = 598.144988662131 
+            xmax = 599.139988662131 
+            text = "" 
+        intervals [211]:
+            xmin = 599.139988662131 
+            xmax = 606.959988662132 
+            text = "And with a pair of horses he would drive from the mill out to the area where it was stuck up so to speak" 
+        intervals [212]:
+            xmin = 606.959988662132 
+            xmax = 609.059988662132 
+            text = "" 
+        intervals [213]:
+            xmin = 609.059988662132 
+            xmax = 614.414988662132 
+            text = "Sticking up this lumber consisted of first laying down" 
+        intervals [214]:
+            xmin = 614.414988662132 
+            xmax = 615.154988662131 
+            text = "" 
+        intervals [215]:
+            xmin = 615.154988662131 
+            xmax = 629.059988662132 
+            text = "some heavy pieces of slab on the ground so to get a fairly level foundation to start with and also get it up off of the ground because if The lumber was piled directly on the ground it would rot very quickly" 
+        intervals [216]:
+            xmin = 629.059988662132 
+            xmax = 629.639991662131 
+            text = "" 
+        intervals [217]:
+            xmin = 629.639991662131 
+            xmax = 633.379988662131 
+            text = "He would lay a couple of these heavy pieces of slab crossways" 
+        intervals [218]:
+            xmin = 633.379988662131 
+            xmax = 634.439990662132 
+            text = "" 
+        intervals [219]:
+            xmin = 634.439990662132 
+            xmax = 647.754988662131 
+            text = "and then start laying the planks on top of them and he would wrap with a pile perhaps five or six feet wide when he got one layer of planks or boards laid down" 
+        intervals [220]:
+            xmin = 647.754988662131 
+            xmax = 648.494988662132 
+            text = "" 
+        intervals [221]:
+            xmin = 648.494988662132 
+            xmax = 652.794988662132 
+            text = "he would then lay a couple of board sticks" 
+        intervals [222]:
+            xmin = 652.794988662132 
+            xmax = 653.454988662132 
+            text = "" 
+        intervals [223]:
+            xmin = 653.454988662132 
+            xmax = 655.114988662132 
+            text = "crossways of this" 
+        intervals [224]:
+            xmin = 655.114988662132 
+            xmax = 656.449988662132 
+            text = "" 
+        intervals [225]:
+            xmin = 656.449988662132 
+            xmax = 657.629984662132 
+            text = "layer of boards" 
+        intervals [226]:
+            xmin = 657.629984662132 
+            xmax = 658.529983662131 
+            text = "" 
+        intervals [227]:
+            xmin = 658.529983662131 
+            xmax = 662.429988662132 
+            text = "and then put another layer on top these board sticks" 
+        intervals [228]:
+            xmin = 662.429988662132 
+            xmax = 663.169982662132 
+            text = "" 
+        intervals [229]:
+            xmin = 663.169982662132 
+            xmax = 667.469988662132 
+            text = "were made by taking slabs in the mill" 
+        intervals [230]:
+            xmin = 667.469988662132 
+            xmax = 668.449978662132 
+            text = "" 
+        intervals [231]:
+            xmin = 668.449978662132 
+            xmax = 669.149978662132 
+            text = "and" 
+        intervals [232]:
+            xmin = 669.149978662132 
+            xmax = 669.664992662132 
+            text = "" 
+        intervals [233]:
+            xmin = 669.664992662132 
+            xmax = 676.924988662132 
+            text = "sawing them first into the proper length five six feet or whatever size they wanted for the lumber pile" 
+        intervals [234]:
+            xmin = 676.924988662132 
+            xmax = 677.664992662132 
+            text = "" 
+        intervals [235]:
+            xmin = 677.664992662132 
+            xmax = 688.449988662132 
+            text = "and then splitting the slabs by means of a saw into pieces which would then be five feet long and about one inch thick" 
+        intervals [236]:
+            xmin = 688.449988662132 
+            xmax = 689.509988662131 
+            text = "" 
+        intervals [237]:
+            xmin = 689.509988662131 
+            xmax = 700.209988662132 
+            text = "They would vary in width but this didn't make any difference of course and these board sticks were what separated the layers of boards or planks in the piles of lumber" 
+        intervals [238]:
+            xmin = 700.209988662132 
+            xmax = 700.744988662132 
+            text = "" 
+        intervals [239]:
+            xmin = 700.744988662132 
+            xmax = 708.564988662132 
+            text = "And this allowed air to circulate through the piles of lumber and therefore cure or dry the wood in the lumber" 
+        intervals [240]:
+            xmin = 708.564988662132 
+            xmax = 709.384988662131 
+            text = "" 
+        intervals [241]:
+            xmin = 709.384988662131 
+            xmax = 713.844988662132 
+            text = "And it was ordinarily cured for about a year before it was sold" 
+        intervals [242]:
+            xmin = 713.844988662132 
+            xmax = 714.504988662131 
+            text = "" 
+        intervals [243]:
+            xmin = 714.504988662131 
+            xmax = 715.204988662132 
+            text = "Then" 
+        intervals [244]:
+            xmin = 715.204988662132 
+            xmax = 716.609988662132 
+            text = "" 
+        intervals [245]:
+            xmin = 716.609988662132 
+            xmax = 725.309988662132 
+            text = "If it was sold it might have been sold to the local box factory the Swift River box company in North Dana for making wooden boxes" 
+        intervals [246]:
+            xmin = 725.309988662132 
+            xmax = 725.809988662132 
+            text = "" 
+        intervals [247]:
+            xmin = 725.809988662132 
+            xmax = 729.789978662131 
+            text = "In which case it would be drawn by a team of horses" 
+        intervals [248]:
+            xmin = 729.789978662131 
+            xmax = 730.384988662131 
+            text = "" 
+        intervals [249]:
+            xmin = 730.384988662131 
+            xmax = 736.604988662132 
+            text = "From the yard so to speak while the piles of lumber were down to the box shop" 
+        intervals [250]:
+            xmin = 736.604988662132 
+            xmax = 737.104988662132 
+            text = "" 
+        intervals [251]:
+            xmin = 737.104988662132 
+            xmax = 746.399998662132 
+            text = "Or if it was sold to some out of town concern like grandfather and my father sold quite a lot of lumber to the" 
+        intervals [252]:
+            xmin = 746.399998662132 
+            xmax = 747.299988662132 
+            text = "" 
+        intervals [253]:
+            xmin = 747.299988662132 
+            xmax = 751.519988662131 
+            text = "furniture factories over around Wagner and Templeton" 
+        intervals [254]:
+            xmin = 751.519988662131 
+            xmax = 752.099988662132 
+            text = "" 
+        intervals [255]:
+            xmin = 752.099988662132 
+            xmax = 764.484998662131 
+            text = "If it was sold to one of them it would be drawn down to North Dana and loaded into railroad box cars and then shipped by railroad over to the furniture factory By the time" 
+        intervals [256]:
+            xmin = 764.484998662131 
+            xmax = 768.658897899178 
+            text = "" 
+        intervals [257]:
+            xmin = 768.658897899178 
+            xmax = 771.303993550319 
+            text = "by the time I was big enough to" 
+        intervals [258]:
+            xmin = 771.303993550319 
+            xmax = 771.521223627949 
+            text = "" 
+        intervals [259]:
+            xmin = 771.521223627949 
+            xmax = 778.199988662132 
+            text = "see the mill my grandfather had stopped operating it and said it was operated by Frank Doubleday" 
+        intervals [260]:
+            xmin = 778.199988662132 
+            xmax = 779.259988662131 
+            text = "" 
+        intervals [261]:
+            xmin = 779.259988662131 
+            xmax = 784.439988662132 
+            text = "But I used to go over there as a kid quite often because it was only" 
+        intervals [262]:
+            xmin = 784.439988662132 
+            xmax = 785.274988662132 
+            text = "" 
+        intervals [263]:
+            xmin = 785.274988662132 
+            xmax = 789.014988662131 
+            text = "quarter of a mile or so from my home there in North Dana" 
+        intervals [264]:
+            xmin = 789.014988662131 
+            xmax = 789.674988662132 
+            text = "" 
+        intervals [265]:
+            xmin = 789.674988662132 
+            xmax = 790.694988662132 
+            text = "And particularly" 
+        intervals [266]:
+            xmin = 790.694988662132 
+            xmax = 791.994988662132 
+            text = "" 
+        intervals [267]:
+            xmin = 791.994988662132 
+            xmax = 792.694988662132 
+            text = "one" 
+        intervals [268]:
+            xmin = 792.694988662132 
+            xmax = 793.674988662132 
+            text = "" 
+        intervals [269]:
+            xmin = 793.674988662132 
+            xmax = 801.509988662131 
+            text = "period when my uncle Glenn Paige worked there for Frank Doubleday and Glenn was the roller" 
+        intervals [270]:
+            xmin = 801.509988662131 
+            xmax = 802.089978662132 
+            text = "" 
+        intervals [271]:
+            xmin = 802.089978662132 
+            xmax = 813.724988662132 
+            text = "So I used to go over and watch him and he would instruct me in the proper techniques of rolling and so on and so forth and I would also watch the operation of the mill" 
+        intervals [272]:
+            xmin = 813.724988662132 
+            xmax = 814.864988662132 
+            text = "" 
+        intervals [273]:
+            xmin = 814.864988662132 
+            xmax = 819.004988662131 
+            text = "Another thing too I used to go over there quite often in the springtime" 
+        intervals [274]:
+            xmin = 819.004988662131 
+            xmax = 820.464988662132 
+            text = "" 
+        intervals [275]:
+            xmin = 820.464988662132 
+            xmax = 823.552553541587 
+            text = "spearing fish because" 
+        intervals [276]:
+            xmin = 823.552553541587 
+            xmax = 824.784988662132 
+            text = "" 
+        intervals [277]:
+            xmin = 824.784988662132 
+            xmax = 827.404988662131 
+            text = "after the mill had operated all day" 
+        intervals [278]:
+            xmin = 827.404988662131 
+            xmax = 828.589988662132 
+            text = "" 
+        intervals [279]:
+            xmin = 828.589988662132 
+            xmax = 833.232687231403 
+            text = "And then they shut down around five o'clock in the afternoon" 
+        intervals [280]:
+            xmin = 833.232687231403 
+            xmax = 834.109988662132 
+            text = "" 
+        intervals [281]:
+            xmin = 834.109988662132 
+            xmax = 836.329988662132 
+            text = "why the perch in particular" 
+        intervals [282]:
+            xmin = 836.329988662132 
+            xmax = 836.829988662132 
+            text = "" 
+        intervals [283]:
+            xmin = 836.829988662132 
+            xmax = 843.769988662131 
+            text = "yellow perch and suckers would have come up to the brook during the daytime" 
+        intervals [284]:
+            xmin = 843.769988662131 
+            xmax = 844.404968662132 
+            text = "" 
+        intervals [285]:
+            xmin = 844.404968662132 
+            xmax = 852.704988662132 
+            text = "And when they shut down the mill of course the water in the book below the mill would suddenly lower by quite a good amount" 
+        intervals [286]:
+            xmin = 852.704988662132 
+            xmax = 853.204988662132 
+            text = "" 
+        intervals [287]:
+            xmin = 853.204988662132 
+            xmax = 859.980011241297 
+            text = "So then you could see the fish in the book and with a pound" 
+        intervals [288]:
+            xmin = 859.980011241297 
+            xmax = 860.139988662132 
+            text = "" 
+        intervals [289]:
+            xmin = 860.139988662132 
+            xmax = 864.199968662132 
+            text = "spear on the end of a pole why we could spear them" 
+        intervals [290]:
+            xmin = 864.199968662132 
+            xmax = 864.859988662132 
+            text = "" 
+        intervals [291]:
+            xmin = 864.859988662132 
+            xmax = 873.559988662131 
+            text = "and take them home to eat or as frequently happened it was too much work to dress them so I'd take them home and give them to the cat" 
+        intervals [292]:
+            xmin = 873.559988662131 
+            xmax = 876.914988662131 
+            text = "" 
+        intervals [293]:
+            xmin = 876.914988662131 
+            xmax = 881.294968662132 
+            text = "Now this mill of course being powered by water" 
+        intervals [294]:
+            xmin = 881.294968662132 
+            xmax = 881.794988662132 
+            text = "" 
+        intervals [295]:
+            xmin = 881.794988662132 
+            xmax = 895.879988662132 
+            text = "from the pond in the dam could not be moved like the steam mills of that day those mills were portable mills they could be moved around from one lot to another and even" 
+        intervals [296]:
+            xmin = 895.879988662132 
+            xmax = 896.139988662132 
+            text = "" 
+        intervals [297]:
+            xmin = 896.139988662132 
+            xmax = 906.854988662132 
+            text = "could be set up several different times on the same lot if it was a big one but this mill was permanently located so all logs had to be" 
+        intervals [298]:
+            xmin = 906.854988662132 
+            xmax = 907.434988662132 
+            text = "" 
+        intervals [299]:
+            xmin = 907.434988662132 
+            xmax = 909.334988662132 
+            text = "drawn in there to be sawed" 
+        intervals [300]:
+            xmin = 909.334988662132 
+            xmax = 910.714988662132 
+            text = "" 
+        intervals [301]:
+            xmin = 910.714988662132 
+            xmax = 914.294988662132 
+            text = "And of course this meant that it handled mostly only" 
+        intervals [302]:
+            xmin = 914.294988662132 
+            xmax = 914.954988662132 
+            text = "" 
+        intervals [303]:
+            xmin = 914.954988662132 
+            xmax = 917.574988662132 
+            text = "timber from right around the immediate vicinity" 
+        intervals [304]:
+            xmin = 917.574988662132 
+            xmax = 918.179988662132 
+            text = "" 
+        intervals [305]:
+            xmin = 918.179988662132 
+            xmax = 922.319988662132 
+            text = "Because it was not economical to draw it from two great a distance" 
+        intervals [306]:
+            xmin = 922.319988662132 
+            xmax = 925.859988662132 
+            text = "" 
+        intervals [307]:
+            xmin = 925.859988662132 
+            xmax = 930.879988662132 
+            text = "The sawdust that was made by the saw cutting off the" 
+        intervals [308]:
+            xmin = 930.879988662132 
+            xmax = 933.084988662132 
+            text = "" 
+        intervals [309]:
+            xmin = 933.084988662132 
+            xmax = 934.824968662132 
+            text = "board from the log" 
+        intervals [310]:
+            xmin = 934.824968662132 
+            xmax = 935.324988662132 
+            text = "" 
+        intervals [311]:
+            xmin = 935.324988662132 
+            xmax = 938.504988662132 
+            text = "sawdust was blown out through a pipe" 
+        intervals [312]:
+            xmin = 938.504988662132 
+            xmax = 939.564968662132 
+            text = "" 
+        intervals [313]:
+            xmin = 939.564968662132 
+            xmax = 953.039988662131 
+            text = "to a pile quite near the mill and of course over the course of years why this pile of sawdust got pretty high and was a lot of fun to to climb up and down this pile of sawdust" 
+        intervals [314]:
+            xmin = 953.039988662131 
+            xmax = 954.499968662132 
+            text = "" 
+        intervals [315]:
+            xmin = 954.499968662132 
+            xmax = 956.879988662132 
+            text = "Also the sawdust was used" 
+        intervals [316]:
+            xmin = 956.879988662132 
+            xmax = 957.459988662132 
+            text = "" 
+        intervals [317]:
+            xmin = 957.459988662132 
+            xmax = 962.484968662131 
+            text = "for example it was used for bedding for horses and cattle" 
+        intervals [318]:
+            xmin = 962.484968662131 
+            xmax = 962.984988662132 
+            text = "" 
+        intervals [319]:
+            xmin = 962.984988662132 
+            xmax = 966.084988662132 
+            text = "but it was also used in storing ice" 
+        intervals [320]:
+            xmin = 966.084988662132 
+            xmax = 967.464988662132 
+            text = "" 
+        intervals [321]:
+            xmin = 967.464988662132 
+            xmax = 969.124988662131 
+            text = "Ice would be cut" 
+        intervals [322]:
+            xmin = 969.124988662131 
+            xmax = 970.664988662131 
+            text = "" 
+        intervals [323]:
+            xmin = 970.664988662131 
+            xmax = 972.564988662132 
+            text = "In a pond in the wintertime" 
+        intervals [324]:
+            xmin = 972.564988662132 
+            xmax = 973.399988662132 
+            text = "" 
+        intervals [325]:
+            xmin = 973.399988662132 
+            xmax = 980.979988662132 
+            text = "And it was stored for summer use use by being covered around the sides and top with sawdust from the mill" 
+        intervals [326]:
+            xmin = 980.979988662132 
+            xmax = 981.799988662131 
+            text = "" 
+        intervals [327]:
+            xmin = 981.799988662131 
+            xmax = 985.620008662132 
+            text = "So that was one use that they had for the sawdust" 
+        intervals [328]:
+            xmin = 985.620008662132 
+            xmax = 989.604988662132 
+            text = "" 
+        intervals [329]:
+            xmin = 989.604988662132 
+            xmax = 990.464988662132 
+            text = "The slabs" 
+        intervals [330]:
+            xmin = 990.464988662132 
+            xmax = 991.204988662132 
+            text = "" 
+        intervals [331]:
+            xmin = 991.204988662132 
+            xmax = 992.464988662132 
+            text = "also over" 
+        intervals [332]:
+            xmin = 992.464988662132 
+            xmax = 992.964988662132 
+            text = "" 
+        intervals [333]:
+            xmin = 992.964988662132 
+            xmax = 996.624988662131 
+            text = "a period of years collected into some pretty big piles" 
+        intervals [334]:
+            xmin = 996.624988662131 
+            xmax = 997.284968662132 
+            text = "" 
+        intervals [335]:
+            xmin = 997.284968662132 
+            xmax = 1002.77998866213 
+            text = "At the mill the slabs were sawed up into lengths of four or five feet" 
+        intervals [336]:
+            xmin = 1002.77998866213 
+            xmax = 1003.35998866213 
+            text = "" 
+        intervals [337]:
+            xmin = 1003.35998866213 
+            xmax = 1005.09998866213 
+            text = "piled onto a little" 
+        intervals [338]:
+            xmin = 1005.09998866213 
+            xmax = 1005.99998866213 
+            text = "" 
+        intervals [339]:
+            xmin = 1005.99998866213 
+            xmax = 1013.01998866213 
+            text = "truck which also operated on you know small rails similar to railroad rails" 
+        intervals [340]:
+            xmin = 1013.01998866213 
+            xmax = 1013.77495866213 
+            text = "" 
+        intervals [341]:
+            xmin = 1013.77495866213 
+            xmax = 1018.87498866213 
+            text = "And when the truck was filled with slabs it would be pushed out by hand" 
+        intervals [342]:
+            xmin = 1018.87498866213 
+            xmax = 1019.77495866213 
+            text = "" 
+        intervals [343]:
+            xmin = 1019.77495866213 
+            xmax = 1026.26998866213 
+            text = "out to an area away from the mill and then the slabs piled up into piles there" 
+        intervals [344]:
+            xmin = 1026.26998866213 
+            xmax = 1026.94998866213 
+            text = "" 
+        intervals [345]:
+            xmin = 1026.94998866213 
+            xmax = 1030.76998866213 
+            text = "And some people used these slabs for firewood" 
+        intervals [346]:
+            xmin = 1030.76998866213 
+            xmax = 1031.42995866213 
+            text = "" 
+        intervals [347]:
+            xmin = 1031.42995866213 
+            xmax = 1039.40998866213 
+            text = "But since they were a good percentage of them was just bark or there wasn't a great deal of heat in them" 
+        intervals [348]:
+            xmin = 1039.40998866213 
+            xmax = 1039.96498866213 
+            text = "" 
+        intervals [349]:
+            xmin = 1039.96498866213 
+            xmax = 1040.98498866213 
+            text = "in the firewood" 
+        intervals [350]:
+            xmin = 1040.98498866213 
+            xmax = 1041.88498866213 
+            text = "" 
+        intervals [351]:
+            xmin = 1041.88498866213 
+            xmax = 1048.26498866213 
+            text = "So if you could afford it well you bought better firewood than than what the slabs would provide" 
+        intervals [352]:
+            xmin = 1048.26498866213 
+            xmax = 1049.40498866213 
+            text = "" 
+        intervals [353]:
+            xmin = 1049.40498866213 
+            xmax = 1052.82498866213 
+            text = "But of course pine slabs slabs of pine wood" 
+        intervals [354]:
+            xmin = 1052.82498866213 
+            xmax = 1053.32498866213 
+            text = "" 
+        intervals [355]:
+            xmin = 1053.32498866213 
+            xmax = 1061.76998866213 
+            text = "or hemlock made good kindling for your wood fire anyway so lots of people used slabs for that purpose" 
+        intervals [356]:
+            xmin = 1061.76998866213 
+            xmax = 1062.26998866213 
+            text = "" 
+        intervals [357]:
+            xmin = 1062.26998866213 
+            xmax = 1064.48998866213 
+            text = "even though they would use hardwood" 
+        intervals [358]:
+            xmin = 1064.48998866213 
+            xmax = 1065.06998866213 
+            text = "" 
+        intervals [359]:
+            xmin = 1065.06998866213 
+            xmax = 1067.12998866213 
+            text = "for actual firewood" 
+        intervals [360]:
+            xmin = 1067.12998866213 
+            xmax = 1068.82998866213 
+            text = "" 
+        intervals [361]:
+            xmin = 1068.82998866213 
+            xmax = 1071.48498866213 
+            text = "I should have said the roller" 
+        intervals [362]:
+            xmin = 1071.48498866213 
+            xmax = 1072.06498866213 
+            text = "" 
+        intervals [363]:
+            xmin = 1072.06498866213 
+            xmax = 1076.76498866213 
+            text = "in rolling the logs from the skidway onto the carriage" 
+        intervals [364]:
+            xmin = 1076.76498866213 
+            xmax = 1078.22500866213 
+            text = "" 
+        intervals [365]:
+            xmin = 1078.22500866213 
+            xmax = 1085.52000866213 
+            text = "didn't just roll these logs by hand but he used either a cant hook or a peavy" 
+        intervals [366]:
+            xmin = 1085.52000866213 
+            xmax = 1086.26000866213 
+            text = "" 
+        intervals [367]:
+            xmin = 1086.26000866213 
+            xmax = 1088.80000866213 
+            text = "to assist in rolling the logs" 
+        intervals [368]:
+            xmin = 1088.80000866213 
+            xmax = 1089.61998866213 
+            text = "" 
+        intervals [369]:
+            xmin = 1089.61998866213 
+            xmax = 1096.80000866213 
+            text = "They cant hook or the peavy as far as I know they they were the same there was no difference between them" 
+        intervals [370]:
+            xmin = 1096.80000866213 
+            xmax = 1097.89498866213 
+            text = "" 
+        intervals [371]:
+            xmin = 1097.89498866213 
+            xmax = 1107.63498866213 
+            text = "They consisted of a heavy wooden handle perhaps twelve feet long that varied of course in individual cases" 
+        intervals [372]:
+            xmin = 1107.63498866213 
+            xmax = 1108.69498866213 
+            text = "" 
+        intervals [373]:
+            xmin = 1108.69498866213 
+            xmax = 1113.01002866213 
+            text = "but on one end was a steel point" 
+        intervals [374]:
+            xmin = 1113.01002866213 
+            xmax = 1114.14998866213 
+            text = "" 
+        intervals [375]:
+            xmin = 1114.14998866213 
+            xmax = 1115.16998866213 
+            text = "with a" 
+        intervals [376]:
+            xmin = 1115.16998866213 
+            xmax = 1115.82998866213 
+            text = "" 
+        intervals [377]:
+            xmin = 1115.82998866213 
+            xmax = 1119.08998866213 
+            text = "movable barb on the end of an arm" 
+        intervals [378]:
+            xmin = 1119.08998866213 
+            xmax = 1119.90998866213 
+            text = "" 
+        intervals [379]:
+            xmin = 1119.90998866213 
+            xmax = 1132.22498866213 
+            text = "And when you hook this cant hook against the log the the barb was coming good sharp and arranged at a proper angle" 
+        intervals [380]:
+            xmin = 1132.22498866213 
+            xmax = 1132.96498866213 
+            text = "" 
+        intervals [381]:
+            xmin = 1132.96498866213 
+            xmax = 1142.93998866213 
+            text = "So if you went to turn the log the barb would bite into the log and you had this four or five foot handle" 
+        intervals [382]:
+            xmin = 1142.93998866213 
+            xmax = 1143.51998866213 
+            text = "" 
+        intervals [383]:
+            xmin = 1143.51998866213 
+            xmax = 1154.05998866213 
+            text = "which gave you the leverage and then that way could roll a pretty big log which much bigger than one that he could just handle by hand without any handle or peavy" 
+        intervals [384]:
+            xmin = 1154.05998866213 
+            xmax = 1158.07498866213 
+            text = "" 
+        intervals [385]:
+            xmin = 1158.07498866213 
+            xmax = 1161.54393279054 
+            text = "I mentioned the firewood" 
+        intervals [386]:
+            xmin = 1161.54393279054 
+            xmax = 1163.03498866213 
+            text = "" 
+        intervals [387]:
+            xmin = 1163.03498866213 
+            xmax = 1165.81501866213 
+            text = "and my home there in North Dana" 
+        intervals [388]:
+            xmin = 1165.81501866213 
+            xmax = 1166.55501866213 
+            text = "" 
+        intervals [389]:
+            xmin = 1166.55501866213 
+            xmax = 1173.81998866213 
+            text = "when I was small was heated entirely by wood we had about an eight room house" 
+        intervals [390]:
+            xmin = 1173.81998866213 
+            xmax = 1174.47994866213 
+            text = "" 
+        intervals [391]:
+            xmin = 1174.47994866213 
+            xmax = 1178.77998866213 
+            text = "and we had the cast iron wood stove in the kitchen" 
+        intervals [392]:
+            xmin = 1178.77998866213 
+            xmax = 1179.75998866213 
+            text = "" 
+        intervals [393]:
+            xmin = 1179.75998866213 
+            xmax = 1184.69998866213 
+            text = "in which my mother did all the cooking of course and the rest of the house" 
+        intervals [394]:
+            xmin = 1184.69998866213 
+            xmax = 1185.31468866213 
+            text = "" 
+        intervals [395]:
+            xmin = 1185.31468866213 
+            xmax = 1187.77468866213 
+            text = "was heated by a furnace" 
+        intervals [396]:
+            xmin = 1187.77468866213 
+            xmax = 1188.67968253968 
+            text = "" 
+        intervals [397]:
+            xmin = 1188.67968253968 
+            xmax = 1189.67968243968 
+            text = "" 
+        intervals [398]:
+            xmin = 1189.67968243968 
+            xmax = 1192.45968253968 
+            text = "This furnace was located in the cellar" 
+        intervals [399]:
+            xmin = 1192.45968253968 
+            xmax = 1193.19968253968 
+            text = "" 
+        intervals [400]:
+            xmin = 1193.19968253968 
+            xmax = 1196.37968253968 
+            text = "and it consisted of a iron fireback" 
+        intervals [401]:
+            xmin = 1196.37968253968 
+            xmax = 1197.19968253968 
+            text = "" 
+        intervals [402]:
+            xmin = 1197.19968253968 
+            xmax = 1201.17968253968 
+            text = "about three feet wide and six feet long" 
+        intervals [403]:
+            xmin = 1201.17968253968 
+            xmax = 1201.91468253968 
+            text = "" 
+        intervals [404]:
+            xmin = 1201.91468253968 
+            xmax = 1206.21468253968 
+            text = "It was handled would take six foot long wood" 
+        intervals [405]:
+            xmin = 1206.21468253968 
+            xmax = 1206.79468253968 
+            text = "" 
+        intervals [406]:
+            xmin = 1206.79468253968 
+            xmax = 1208.53468253968 
+            text = "And then around this" 
+        intervals [407]:
+            xmin = 1208.53468253968 
+            xmax = 1209.03468253968 
+            text = "" 
+        intervals [408]:
+            xmin = 1209.03468253968 
+            xmax = 1212.11424212858 
+            text = "was a brick structure" 
+        intervals [409]:
+            xmin = 1212.11424212858 
+            xmax = 1213.11468253968 
+            text = "" 
+        intervals [410]:
+            xmin = 1213.11468253968 
+            xmax = 1217.71521636234 
+            text = "And from the interior of this brick section" 
+        intervals [411]:
+            xmin = 1217.71521636234 
+            xmax = 1220.14968253968 
+            text = "" 
+        intervals [412]:
+            xmin = 1220.14968253968 
+            xmax = 1225.64968253968 
+            text = "sheet metal pipes ran to the different rooms of the house" 
+        intervals [413]:
+            xmin = 1225.64968253968 
+            xmax = 1226.24468253968 
+            text = "" 
+        intervals [414]:
+            xmin = 1226.24468253968 
+            xmax = 1230.78468253968 
+            text = "And conducted the hot air from the furnace up to the different rooms" 
+        intervals [415]:
+            xmin = 1230.78468253968 
+            xmax = 1231.68468253968 
+            text = "" 
+        intervals [416]:
+            xmin = 1231.68468253968 
+            xmax = 1232.38468253968 
+            text = "The" 
+        intervals [417]:
+            xmin = 1232.38468253968 
+            xmax = 1233.60468253968 
+            text = "" 
+        intervals [418]:
+            xmin = 1233.60468253968 
+            xmax = 1237.18468253968 
+            text = "hot air pipes were similar to those in use today" 
+        intervals [419]:
+            xmin = 1237.18468253968 
+            xmax = 1237.92468253968 
+            text = "" 
+        intervals [420]:
+            xmin = 1237.92468253968 
+            xmax = 1248.99968253968 
+            text = "And at the end of them in the room was a register which could be opened and closed on the floor to provide more or less heat." 
+        intervals [421]:
+            xmin = 1248.99968253968 
+            xmax = 1249.97968253968 
+            text = "" 
+        intervals [422]:
+            xmin = 1249.97968253968 
+            xmax = 1260.73468253968 
+            text = "As I said the furnace was capable of handling wood up to six feet long but we never used anything but four foot wood in it" 
+        intervals [423]:
+            xmin = 1260.73468253968 
+            xmax = 1261.15467753968 
+            text = "" 
+        intervals [424]:
+            xmin = 1261.15467753968 
+            xmax = 1268.65468253968 
+            text = "simply because this was more of a standard length and was the normal way to cut wood" 
+        intervals [425]:
+            xmin = 1268.65468253968 
+            xmax = 1269.24968253968 
+            text = "" 
+        intervals [426]:
+            xmin = 1269.24968253968 
+            xmax = 1274.34968253968 
+            text = "My father would hire some local wood chopper to go into the woods" 
+        intervals [427]:
+            xmin = 1274.34968253968 
+            xmax = 1274.60920915712 
+            text = "" 
+        intervals [428]:
+            xmin = 1274.60920915712 
+            xmax = 1279.06968253968 
+            text = "on land that my dad owned and cut firewood" 
+        intervals [429]:
+            xmin = 1279.06968253968 
+            xmax = 1280.76967253968 
+            text = "" 
+        intervals [430]:
+            xmin = 1280.76967253968 
+            xmax = 1288.46468253968 
+            text = "And the wood chopper would chop down the trees with an ax and then chop them up with an ax and do four foot lengths" 
+        intervals [431]:
+            xmin = 1288.46468253968 
+            xmax = 1289.68468253968 
+            text = "" 
+        intervals [432]:
+            xmin = 1289.68468253968 
+            xmax = 1291.58468253968 
+            text = "If the tree was" 
+        intervals [433]:
+            xmin = 1291.58468253968 
+            xmax = 1292.08468253968 
+            text = "" 
+        intervals [434]:
+            xmin = 1292.08468253968 
+            xmax = 1305.27968253968 
+            text = "large enough so that the four foot lengths of it would be pretty heavy one man to handle in other words if it weighed more than say a hundred pounds why he would then split it into smaller pieces" 
+        intervals [435]:
+            xmin = 1305.27968253968 
+            xmax = 1305.61968253968 
+            text = "" 
+        intervals [436]:
+            xmin = 1305.61968253968 
+            xmax = 1308.95968253968 
+            text = "by means of steel wedges and sledgehammer" 
+        intervals [437]:
+            xmin = 1308.95968253968 
+            xmax = 1309.93968253968 
+            text = "" 
+        intervals [438]:
+            xmin = 1309.93968253968 
+            xmax = 1311.75968253968 
+            text = "But we would get" 
+        intervals [439]:
+            xmin = 1311.75968253968 
+            xmax = 1312.41468753968 
+            text = "" 
+        intervals [440]:
+            xmin = 1312.41468753968 
+            xmax = 1318.95469253968 
+            text = "pieces of wood four feet long and up to or perhaps twelve inches in diameter" 
+        intervals [441]:
+            xmin = 1318.95469253968 
+            xmax = 1321.05468253968 
+            text = "" 
+        intervals [442]:
+            xmin = 1321.05468253968 
+            xmax = 1324.23469253968 
+            text = "Dad would then hire some local teamster" 
+        intervals [443]:
+            xmin = 1324.23469253968 
+            xmax = 1325.21468253968 
+            text = "" 
+        intervals [444]:
+            xmin = 1325.21468253968 
+            xmax = 1331.94968253968 
+            text = "to draw out the wood from the woods down to the house and with a" 
+        intervals [445]:
+            xmin = 1331.94968253968 
+            xmax = 1332.84969253968 
+            text = "" 
+        intervals [446]:
+            xmin = 1332.84969253968 
+            xmax = 1334.82969253968 
+            text = "pair of horses and teams" 
+        intervals [447]:
+            xmin = 1334.82969253968 
+            xmax = 1335.56969253968 
+            text = "" 
+        intervals [448]:
+            xmin = 1335.56969253968 
+            xmax = 1342.50468253968 
+            text = "He would pile it up outside the house just above the bulkhead which opened into the cellar" 
+        intervals [449]:
+            xmin = 1342.50468253968 
+            xmax = 1343.56468253968 
+            text = "" 
+        intervals [450]:
+            xmin = 1343.56468253968 
+            xmax = 1350.58468253968 
+            text = "And we would use about five cords of wood every winter in the furnace to heat the house" 
+        intervals [451]:
+            xmin = 1350.58468253968 
+            xmax = 1351.32468253968 
+            text = "" 
+        intervals [452]:
+            xmin = 1351.32468253968 
+            xmax = 1353.4356238178 
+            text = "And my job was to" 
+        intervals [453]:
+            xmin = 1353.4356238178 
+            xmax = 1353.72468253968 
+            text = "" 
+        intervals [454]:
+            xmin = 1353.72468253968 
+            xmax = 1355.75968253968 
+            text = "keepsake wood" 
+        intervals [455]:
+            xmin = 1355.75968253968 
+            xmax = 1357.45968253968 
+            text = "" 
+        intervals [456]:
+            xmin = 1357.45968253968 
+            xmax = 1360.47967253968 
+            text = "in the summer where dad could put it into the furnace" 
+        intervals [457]:
+            xmin = 1360.47967253968 
+            xmax = 1361.85967253968 
+            text = "" 
+        intervals [458]:
+            xmin = 1361.85967253968 
+            xmax = 1367.45468253968 
+            text = "I'd have to go up to the top of the bank there where it was piled up and" 
+        intervals [459]:
+            xmin = 1367.45468253968 
+            xmax = 1368.27468253968 
+            text = "" 
+        intervals [460]:
+            xmin = 1368.27468253968 
+            xmax = 1373.37467253968 
+            text = "throw it from there down into the open bulkhead of the cellar" 
+        intervals [461]:
+            xmin = 1373.37467253968 
+            xmax = 1373.87467253968 
+            text = "" 
+        intervals [462]:
+            xmin = 1373.87467253968 
+            xmax = 1381.78968253968 
+            text = "And of course if you weren't careful instead of the stick of wood landing in the open bulkhead it might hit the side of the house" 
+        intervals [463]:
+            xmin = 1381.78968253968 
+            xmax = 1382.70968253968 
+            text = "" 
+        intervals [464]:
+            xmin = 1382.70968253968 
+            xmax = 1387.08968253968 
+            text = "But there were little parts that you could get them to go pretty close to where you wanted them" 
+        intervals [465]:
+            xmin = 1387.08968253968 
+            xmax = 1387.74968253968 
+            text = "" 
+        intervals [466]:
+            xmin = 1387.74968253968 
+            xmax = 1400.98469253968 
+            text = "Then we would power up this wood down in the cellar or more frequently just leave it loosely as it as it landed from having thrown it in and dad would put it from there into the furnace" 
+        intervals [467]:
+            xmin = 1400.98469253968 
+            xmax = 1401.64469253968 
+            text = "" 
+        intervals [468]:
+            xmin = 1401.64469253968 
+            xmax = 1405.46468253968 
+            text = "Of course this wood was not greenwood it had to be cured" 
+        intervals [469]:
+            xmin = 1405.46468253968 
+            xmax = 1406.28469253968 
+            text = "" 
+        intervals [470]:
+            xmin = 1406.28469253968 
+            xmax = 1419.03968253968 
+            text = "And usually it cured the one season it would be cut one winter for use the following winter and we used all kinds of wood just as it came that grew in the woods would be" 
+        intervals [471]:
+            xmin = 1419.03968253968 
+            xmax = 1419.93967253968 
+            text = "" 
+        intervals [472]:
+            xmin = 1419.93967253968 
+            xmax = 1423.59968253968 
+            text = "mostly maple probably but quite a lot of oak" 
+        intervals [473]:
+            xmin = 1423.59968253968 
+            xmax = 1424.60468253968 
+            text = "" 
+        intervals [474]:
+            xmin = 1424.60468253968 
+            xmax = 1432.42469253968 
+            text = "And some birch some poplar of course birch and poplar were not as good wood for heat as as the hardwood" 
+        intervals [475]:
+            xmin = 1432.42469253968 
+            xmax = 1434.12468253968 
+            text = "" 
+        intervals [476]:
+            xmin = 1434.12468253968 
+            xmax = 1446.61968253968 
+            text = "There would also be some beech of course in the early days it would be chestnuts but by the time I was ten years old or so I most of the chestnut trees had died from the blight" 
+        intervals [477]:
+            xmin = 1446.61968253968 
+            xmax = 1448.07968253968 
+            text = "" 
+        intervals [478]:
+            xmin = 1448.07968253968 
+            xmax = 1450.29968253968 
+            text = "So we didn't get much chestnuts" 
+        intervals [479]:
+            xmin = 1450.29968253968 
+            xmax = 1450.95968253968 
+            text = "" 
+        intervals [480]:
+            xmin = 1450.95968253968 
+            xmax = 1456.13468253968 
+            text = "what I remember out to burn and of course we didn't care for the" 
+        intervals [481]:
+            xmin = 1456.13468253968 
+            xmax = 1456.87468253968 
+            text = "" 
+        intervals [482]:
+            xmin = 1456.87468253968 
+            xmax = 1461.65468253968 
+            text = "fatwood like pine and hemlock because it was not as much heat in those" 
+        intervals [483]:
+            xmin = 1461.65468253968 
+            xmax = 1465.60968253968 
+            text = "" 
+        intervals [484]:
+            xmin = 1465.60968253968 
+            xmax = 1478.17468253968 
+            text = "Also for the kitchen we would use around a number about two cords of wood a year and so the team traveled back the wood for the furnace would also leave" 
+        intervals [485]:
+            xmin = 1478.17468253968 
+            xmax = 1478.43468253968 
+            text = "" 
+        intervals [486]:
+            xmin = 1478.43468253968 
+            xmax = 1481.53466253968 
+            text = "about a couple of cords well out by the woodshed" 
+        intervals [487]:
+            xmin = 1481.53466253968 
+            xmax = 1482.27466253968 
+            text = "" 
+        intervals [488]:
+            xmin = 1482.27466253968 
+            xmax = 1494.28970253968 
+            text = "and then dad would usually hire some local man either to saw it up by hand Eddie Smith used to saw it by hand with a bucksaw and a sawhorse" 
+        intervals [489]:
+            xmin = 1494.28970253968 
+            xmax = 1494.94968253968 
+            text = "" 
+        intervals [490]:
+            xmin = 1494.94968253968 
+            xmax = 1501.48968253968 
+            text = "or sometimes dad would hire some local man who owned a fire rig as it was called a" 
+        intervals [491]:
+            xmin = 1501.48968253968 
+            xmax = 1502.06968253968 
+            text = "" 
+        intervals [492]:
+            xmin = 1502.06968253968 
+            xmax = 1504.03468253968 
+            text = "gasoline driven engine" 
+        intervals [493]:
+            xmin = 1504.03468253968 
+            xmax = 1504.77468253968 
+            text = "" 
+        intervals [494]:
+            xmin = 1504.77468253968 
+            xmax = 1514.03468253968 
+            text = "which ran the saw and usually two men would operate that one would take the four foot sticks of wood" 
+        intervals [495]:
+            xmin = 1514.03468253968 
+            xmax = 1514.45468253968 
+            text = "" 
+        intervals [496]:
+            xmin = 1514.45468253968 
+            xmax = 1522.97968253968 
+            text = "and put them on the little carriage and this carriage was killed up against the saw and it would saw a stick of wood" 
+        intervals [497]:
+            xmin = 1522.97968253968 
+            xmax = 1524.19968253968 
+            text = "" 
+        intervals [498]:
+            xmin = 1524.19968253968 
+            xmax = 1529.93968253968 
+            text = "The four foot wood would make three sticks of fire wood as a rule" 
+        intervals [499]:
+            xmin = 1529.93968253968 
+            xmax = 1530.45468253968 
+            text = "" 
+        intervals [500]:
+            xmin = 1530.45468253968 
+            xmax = 1533.95468253968 
+            text = "That would make each of them sixteen inches long of course" 
+        intervals [501]:
+            xmin = 1533.95468253968 
+            xmax = 1535.81470253968 
+            text = "" 
+        intervals [502]:
+            xmin = 1535.81470253968 
+            xmax = 1542.75468253968 
+            text = "They would take these pieces of wood that had been cut from the four foot wood and throw them into a pile" 
+        intervals [503]:
+            xmin = 1542.75468253968 
+            xmax = 1543.32968253968 
+            text = "" 
+        intervals [504]:
+            xmin = 1543.32968253968 
+            xmax = 1548.82968253968 
+            text = "And then dad or I or both of us would split that with an axe" 
+        intervals [505]:
+            xmin = 1548.82968253968 
+            xmax = 1549.40968253968 
+            text = "" 
+        intervals [506]:
+            xmin = 1549.40968253968 
+            xmax = 1552.90966253968 
+            text = "into pieces small enough to be" 
+        intervals [507]:
+            xmin = 1552.90966253968 
+            xmax = 1553.80968253968 
+            text = "" 
+        intervals [508]:
+            xmin = 1553.80968253968 
+            xmax = 1556.58968253968 
+            text = "easily used in the kitchen sove" 
+        intervals [509]:
+            xmin = 1556.58968253968 
+            xmax = 1557.23468253968 
+            text = "" 
+        intervals [510]:
+            xmin = 1557.23468253968 
+            xmax = 1570.66968253968 
+            text = "And my job was to keep the wood box in the kitchen full we a pretty big wood box in fact it was built in in the partition between the kitchen and the back room as we called it" 
+        intervals [511]:
+            xmin = 1570.66968253968 
+            xmax = 1571.02968253968 
+            text = "" 
+        intervals [512]:
+            xmin = 1571.02968253968 
+            xmax = 1584.60968253968 
+            text = "So that the wood box could be filled from the back room without actually bringing the wood into the kitchen but then there was a cover in the kitchen and you could reach in and get the wood from right in back of the kitchen stove" 
+        intervals [513]:
+            xmin = 1584.60968253968 
+            xmax = 1585.63468253968 
+            text = "" 
+        intervals [514]:
+            xmin = 1585.63468253968 
+            xmax = 1600.36968253968 
+            text = "And usually I would bring the wood in and just bump it into this big wood box helter skelter but once in a while I'd get real ambitious and I would pack it in there very carefully and then I wouldn't have to bring any more up for" 
+        intervals [515]:
+            xmin = 1600.36968253968 
+            xmax = 1606.98968253968 
+            text = "several days but most of the time I'd just bring in enough to go one day and then" 
+        intervals [516]:
+            xmin = 1606.98968253968 
+            xmax = 1607.64968253968 
+            text = "" 
+        intervals [517]:
+            xmin = 1607.64968253968 
+            xmax = 1610.34968253968 
+            text = "the following day I'd have to bring in some more" 
+        intervals [518]:
+            xmin = 1610.34968253968 
+            xmax = 1610.92968253968 
+            text = "" 
+        intervals [519]:
+            xmin = 1610.92968253968 
+            xmax = 1612.58968253968 
+            text = "And I remember that" 
+        intervals [520]:
+            xmin = 1612.58968253968 
+            xmax = 1613.16968253968 
+            text = "" 
+        intervals [521]:
+            xmin = 1613.16968253968 
+            xmax = 1622.80468253968 
+            text = "my mother would sometimes have to speak to me kind of sharp to get me to go out and bring in some wood to fill the wood box with" 
+        intervals [522]:
+            xmin = 1622.80468253968 
+            xmax = 1626.18470253968 
+            text = "" 
+        intervals [523]:
+            xmin = 1626.18470253968 
+            xmax = 1632.66968253968 
+            text = "Of course when mother was baking way she would usually use" 
+        intervals [524]:
+            xmin = 1632.66968253968 
+            xmax = 1633.56968253968 
+            text = "" 
+        intervals [525]:
+            xmin = 1633.56968253968 
+            xmax = 1642.26968253968 
+            text = "some good fairly good sized oak wood because that would burn longer you wouldn't have to replenish the fire so often" 
+        intervals [526]:
+            xmin = 1642.26968253968 
+            xmax = 1643.34468253968 
+            text = "" 
+        intervals [527]:
+            xmin = 1643.34468253968 
+            xmax = 1652.76468253968 
+            text = "But if she wanted a quick fire well then she would find some pieces of birch or perhaps an occasional pieces piece of pine or" 
+        intervals [528]:
+            xmin = 1652.76468253968 
+            xmax = 1653.10468253968 
+            text = "" 
+        intervals [529]:
+            xmin = 1653.10468253968 
+            xmax = 1658.68468253968 
+            text = "something like that the softer wood they would flare up and give her a hot fire more quickly" 
+        intervals [530]:
+            xmin = 1658.68468253968 
+            xmax = 1659.40968253968 
+            text = "" 
+        intervals [531]:
+            xmin = 1659.40968253968 
+            xmax = 1661.70968253968 
+            text = "Later on we" 
+        intervals [532]:
+            xmin = 1661.70968253968 
+            xmax = 1662.36966253968 
+            text = "" 
+        intervals [533]:
+            xmin = 1662.36966253968 
+            xmax = 1666.34966253968 
+            text = "put in a kerosene burner into that stove" 
+        intervals [534]:
+            xmin = 1666.34966253968 
+            xmax = 1666.92966253968 
+            text = "" 
+        intervals [535]:
+            xmin = 1666.92966253968 
+            xmax = 1675.51500153576 
+            text = "And this took the place of the wood I was glad of that because it was much easier to fill glass bottles with kerosene" 
+        intervals [536]:
+            xmin = 1675.51500153576 
+            xmax = 1675.86468253968 
+            text = "" 
+        intervals [537]:
+            xmin = 1675.86468253968 
+            xmax = 1686.31968253968 
+            text = "and bring that in than it was to bring in several baskets of wood and one bottle of kerosene would probably run for about twenty four hours it was" 
+        intervals [538]:
+            xmin = 1686.31968253968 
+            xmax = 1686.97968253968 
+            text = "" 
+        intervals [539]:
+            xmin = 1686.97968253968 
+            xmax = 1694.39968253968 
+            text = "pretty good sized bottles but I believe they held five gallons although I'm not sure it may have been a little smaller than that" 
+        intervals [540]:
+            xmin = 1694.39968253968 
+            xmax = 1695.21970253968 
+            text = "" 
+        intervals [541]:
+            xmin = 1695.21970253968 
+            xmax = 1708.08465253968 
+            text = "But I I like that but my mother didn't like because it didn't give as good a fire she didn't have as much control over it as she did over the wood fire and she always claimed that she couldn't bake" 
+        intervals [542]:
+            xmin = 1708.08465253968 
+            xmax = 1708.34468253968 
+            text = "" 
+        intervals [543]:
+            xmin = 1708.34468253968 
+            xmax = 1714.46968253968 
+            text = "properly it was that kerosene burner in the stove instead of the wood so" 
+        intervals [544]:
+            xmin = 1714.46968253968 
+            xmax = 1715.28968253968 
+            text = "" 
+        intervals [545]:
+            xmin = 1715.28968253968 
+            xmax = 1722.70965253968 
+            text = "in those days of course lots of other people were replacing their you know wood stoves with these kerosene heaters" 
+        intervals [546]:
+            xmin = 1722.70965253968 
+            xmax = 1723.44968253968 
+            text = "" 
+        intervals [547]:
+            xmin = 1723.44968253968 
+            xmax = 1725.42968253968 
+            text = "converting them I should say" 
+        intervals [548]:
+            xmin = 1725.42968253968 
+            xmax = 1726.04468253968 
+            text = "" 
+        intervals [549]:
+            xmin = 1726.04468253968 
+            xmax = 1735.80463253968 
+            text = "And so there were all kinds of ideas for making the oven bake better I know one thing was that we" 
+        intervals [550]:
+            xmin = 1735.80463253968 
+            xmax = 1746.73974253968 
+            text = "covered the top of the oven with brick and this was supposed to somehow make the oven work better but mother said she couldn't see it had made any difference" 
+        intervals [551]:
+            xmin = 1746.73974253968 
+            xmax = 1746.92477598039 
+            text = "" 
+        intervals [552]:
+            xmin = 1746.92477598039 
+            xmax = 1759.79468253968 
+            text = "and so she used this as an argument so that about as soon as electric stoves became available why she prevailed on dad to get her an electric stove and" 
+        intervals [553]:
+            xmin = 1759.79468253968 
+            xmax = 1760.13465253968 
+            text = "" 
+        intervals [554]:
+            xmin = 1760.13465253968 
+            xmax = 1767.15468253968 
+            text = "certainly that did work a lot better than the kerosene burner had worked in the old wood stove" 
+        intervals [555]:
+            xmin = 1767.15468253968 
+            xmax = 1768.72968253968 
+            text = "" 
+        intervals [556]:
+            xmin = 1768.72968253968 
+            xmax = 1771.10968253968 
+            text = "I mentioned the" 
+        intervals [557]:
+            xmin = 1771.10968253968 
+            xmax = 1771.60968253968 
+            text = "" 
+        intervals [558]:
+            xmin = 1771.60968253968 
+            xmax = 1774.06968253968 
+            text = "four foot wood that we used in the furnace" 
+        intervals [559]:
+            xmin = 1774.06968253968 
+            xmax = 1775.04968253968 
+            text = "" 
+        intervals [560]:
+            xmin = 1775.04968253968 
+            xmax = 1784.96008253968 
+            text = "And dad would light the fire in the furnace in the fall and then that fire would never go out from that time until warm weather came the next spring" 
+        intervals [561]:
+            xmin = 1784.96008253968 
+            xmax = 1785.37507936508 
+            text = "" 
+        intervals [562]:
+            xmin = 1785.37507936508 
+            xmax = 1785.89507933508 
+            text = "" 
+        intervals [563]:
+            xmin = 1785.89507933508 
+            xmax = 1790.91507936508 
+            text = "He would fix the fire in the morning at breakfast time" 
+        intervals [564]:
+            xmin = 1790.91507936508 
+            xmax = 1791.65507936508 
+            text = "" 
+        intervals [565]:
+            xmin = 1791.65507936508 
+            xmax = 1799.23507936508 
+            text = "And then he would come home to lunch from the store grocery store and would fix it again at lunch time" 
+        intervals [566]:
+            xmin = 1799.23507936508 
+            xmax = 1800.13507936508 
+            text = "" 
+        intervals [567]:
+            xmin = 1800.13507936508 
+            xmax = 1813.53007836508 
+            text = "And perhaps again at suppertime and then at bedtime he would go down and load it up for the night and he would throw in one or two big sticks about as big as he could lift of" 
+        intervals [568]:
+            xmin = 1813.53007836508 
+            xmax = 1814.03007936508 
+            text = "" 
+        intervals [569]:
+            xmin = 1814.03007936508 
+            xmax = 1816.01507936508 
+            text = "oak if if it was available" 
+        intervals [570]:
+            xmin = 1816.01507936508 
+            xmax = 1817.31507936508 
+            text = "" 
+        intervals [571]:
+            xmin = 1817.31507936508 
+            xmax = 1822.09507936508 
+            text = "four feet long and maybe up to a foot in diameter" 
+        intervals [572]:
+            xmin = 1822.09507936508 
+            xmax = 1822.67507936508 
+            text = "" 
+        intervals [573]:
+            xmin = 1822.67507936508 
+            xmax = 1833.13007936508 
+            text = "And this would you know would burn all night and then the next morning there would be a good bed of coals and all we would have to do would be to throw on some more wood it was" 
+        intervals [574]:
+            xmin = 1833.13007936508 
+            xmax = 1834.51008236508 
+            text = "" 
+        intervals [575]:
+            xmin = 1834.51008236508 
+            xmax = 1836.17008136508 
+            text = "all right to leave again" 
+        intervals [576]:
+            xmin = 1836.17008136508 
+            xmax = 1836.75007936508 
+            text = "" 
+        intervals [577]:
+            xmin = 1836.75007936508 
+            xmax = 1843.84231161529 
+            text = "In that row as I say the fire never went out from fall until spring and we never heated" 
+        intervals [578]:
+            xmin = 1843.84231161529 
+            xmax = 1844.08508336508 
+            text = "" 
+        intervals [579]:
+            xmin = 1844.08508336508 
+            xmax = 1854.22507936508 
+            text = "the bedrooms on the second floor of the house they had hot air pipes leading to them but we never heated them we always slept in cold bedrooms" 
+        intervals [580]:
+            xmin = 1854.22507936508 
+            xmax = 1854.80508436508 
+            text = "" 
+        intervals [581]:
+            xmin = 1854.80508436508 
+            xmax = 1867.61007936508 
+            text = "but the downstairs rooms the dining room the living room and the aprlor were all heated from the furnace and we never had any trouble keeping warm even in the coldest days" 
+        intervals [582]:
+            xmin = 1867.61007936508 
+            xmax = 1868.03007936508 
+            text = "" 
+        intervals [583]:
+            xmin = 1868.03007936508 
+            xmax = 1873.78507936508 
+            text = "regardless of how windy it was or anything else we were always perfectly comfortable in there" 
+        intervals [584]:
+            xmin = 1873.78507936508 
+            xmax = 1908.29507936508 
+            text = "" 
+        intervals [585]:
+            xmin = 1908.29507936508 
+            xmax = 1910.91507936508 
+            text = "Early recollections of North Dana" 
+        intervals [586]:
+            xmin = 1910.91507936508 
+            xmax = 1911.57507936508 
+            text = "" 
+        intervals [587]:
+            xmin = 1911.57507936508 
+            xmax = 1914.59507936508 
+            text = "I pretty closely tied in with my father's" 
+        intervals [588]:
+            xmin = 1914.59507936508 
+            xmax = 1915.09507936508 
+            text = "" 
+        intervals [589]:
+            xmin = 1915.09507936508 
+            xmax = 1916.35507936508 
+            text = "grocery store" 
+        intervals [590]:
+            xmin = 1916.35507936508 
+            xmax = 1918.12006936508 
+            text = "" 
+        intervals [591]:
+            xmin = 1918.12006936508 
+            xmax = 1932.93507936508 
+            text = "I always referred to it as the grocery store although he sold quite a lot more than just groceries as I recall the sign above the door read N N Doubleday dry goods groceries boots" 
+        intervals [592]:
+            xmin = 1932.93507936508 
+            xmax = 1934.27507936508 
+            text = "tools and hardware" 
+        intervals [593]:
+            xmin = 1934.27507936508 
+            xmax = 1935.57507936508 
+            text = "" 
+        intervals [594]:
+            xmin = 1935.57507936508 
+            xmax = 1937.55507936508 
+            text = "And he did sell all of those" 
+        intervals [595]:
+            xmin = 1937.55507936508 
+            xmax = 1938.53507936508 
+            text = "" 
+        intervals [596]:
+            xmin = 1938.53507936508 
+            xmax = 1940.9400156462 
+            text = "In addition to the groceries he" 
+        intervals [597]:
+            xmin = 1940.9400156462 
+            xmax = 1941.65507936508 
+            text = "" 
+        intervals [598]:
+            xmin = 1941.65507936508 
+            xmax = 1942.35507936508 
+            text = "especially" 
+        intervals [599]:
+            xmin = 1942.35507936508 
+            xmax = 1942.85507936508 
+            text = "" 
+        intervals [600]:
+            xmin = 1942.85507936508 
+            xmax = 1945.23507936508 
+            text = "in the earlier days he sold" 
+        intervals [601]:
+            xmin = 1945.23507936508 
+            xmax = 1945.95007936508 
+            text = "" 
+        intervals [602]:
+            xmin = 1945.95007936508 
+            xmax = 1950.26441860075 
+            text = "quite a bit of dry good For that I mean cloth" 
+        intervals [603]:
+            xmin = 1950.26441860075 
+            xmax = 1950.59007936508 
+            text = "" 
+        intervals [604]:
+            xmin = 1950.59007936508 
+            xmax = 1954.65007936508 
+            text = "for women to make dresses out of house dresses" 
+        intervals [605]:
+            xmin = 1954.65007936508 
+            xmax = 1956.03007936508 
+            text = "" 
+        intervals [606]:
+            xmin = 1956.03007936508 
+            xmax = 1957.82336444759 
+            text = "and stockings" 
+        intervals [607]:
+            xmin = 1957.82336444759 
+            xmax = 1958.35007936508 
+            text = "" 
+        intervals [608]:
+            xmin = 1958.35007936508 
+            xmax = 1960.12507936508 
+            text = "and shoes" 
+        intervals [609]:
+            xmin = 1960.12507936508 
+            xmax = 1960.70507936508 
+            text = "" 
+        intervals [610]:
+            xmin = 1960.70507936508 
+            xmax = 1961.91240120298 
+            text = "underwear" 
+        intervals [611]:
+            xmin = 1961.91240120298 
+            xmax = 1962.30507936508 
+            text = "" 
+        intervals [612]:
+            xmin = 1962.30507936508 
+            xmax = 1964.20507936508 
+            text = "We sold quite a lot of shoes" 
+        intervals [613]:
+            xmin = 1964.20507936508 
+            xmax = 1964.70507936508 
+            text = "" 
+        intervals [614]:
+            xmin = 1964.70507936508 
+            xmax = 1966.20507936508 
+            text = "when I was small" 
+        intervals [615]:
+            xmin = 1966.20507936508 
+            xmax = 1967.58507936508 
+            text = "" 
+        intervals [616]:
+            xmin = 1967.58507936508 
+            xmax = 1969.24508936508 
+            text = "then by" 
+        intervals [617]:
+            xmin = 1969.24508936508 
+            xmax = 1969.98508936508 
+            text = "" 
+        intervals [618]:
+            xmin = 1969.98508936508 
+            xmax = 1972.12507936508 
+            text = "say about nineteen twenty" 
+        intervals [619]:
+            xmin = 1972.12507936508 
+            xmax = 1973.17007936508 
+            text = "" 
+        intervals [620]:
+            xmin = 1973.17007936508 
+            xmax = 1975.66714124548 
+            text = "many people had their own automobiles" 
+        intervals [621]:
+            xmin = 1975.66714124548 
+            xmax = 1976.21007936508 
+            text = "" 
+        intervals [622]:
+            xmin = 1976.21007936508 
+            xmax = 1984.43007936508 
+            text = "so that they could drive to the larger town like Athol or Orange where they had a better" 
+        intervals [623]:
+            xmin = 1984.43007936508 
+            xmax = 1984.93007936508 
+            text = "" 
+        intervals [624]:
+            xmin = 1984.93007936508 
+            xmax = 1990.58506936508 
+            text = "stop to choose from so from that time on he did not sell very many shoes" 
+        intervals [625]:
+            xmin = 1990.58506936508 
+            xmax = 1991.24506936508 
+            text = "" 
+        intervals [626]:
+            xmin = 1991.24506936508 
+            xmax = 2003.36007936508 
+            text = "But when I was smaller he sold shoes for men women and children if I needed a pair of new shoes like I would go to the store and dad would stick me with a pair right there" 
+        intervals [627]:
+            xmin = 2003.36007936508 
+            xmax = 2005.46007936508 
+            text = "" 
+        intervals [628]:
+            xmin = 2005.46007936508 
+            xmax = 2006.16007936508 
+            text = "I" 
+        intervals [629]:
+            xmin = 2006.16007936508 
+            xmax = 2007.38007936508 
+            text = "" 
+        intervals [630]:
+            xmin = 2007.38007936508 
+            xmax = 2009.04007936508 
+            text = "in addition to that" 
+        intervals [631]:
+            xmin = 2009.04007936508 
+            xmax = 2009.70007936508 
+            text = "" 
+        intervals [632]:
+            xmin = 2009.70007936508 
+            xmax = 2015.12007936508 
+            text = "we also sold as as the sign said said boots and hardware" 
+        intervals [633]:
+            xmin = 2015.12007936508 
+            xmax = 2016.59507936508 
+            text = "" 
+        intervals [634]:
+            xmin = 2016.59507936508 
+            xmax = 2018.81507936508 
+            text = "hardware included nails" 
+        intervals [635]:
+            xmin = 2018.81507936508 
+            xmax = 2019.79507936508 
+            text = "" 
+        intervals [636]:
+            xmin = 2019.79507936508 
+            xmax = 2020.49507936508 
+            text = "hinges" 
+        intervals [637]:
+            xmin = 2020.49507936508 
+            xmax = 2021.57728672972 
+            text = "" 
+        intervals [638]:
+            xmin = 2021.57728672972 
+            xmax = 2023.62507936508 
+            text = "and door hardware" 
+        intervals [639]:
+            xmin = 2023.62507936508 
+            xmax = 2024.81018141445 
+            text = "" 
+        intervals [640]:
+            xmin = 2024.81018141445 
+            xmax = 2025.60243228581 
+            text = "paint" 
+        intervals [641]:
+            xmin = 2025.60243228581 
+            xmax = 2029.21007936508 
+            text = "" 
+        intervals [642]:
+            xmin = 2029.21007936508 
+            xmax = 2030.42600873412 
+            text = "kerosine" 
+        intervals [643]:
+            xmin = 2030.42600873412 
+            xmax = 2031.45007936508 
+            text = "" 
+        intervals [644]:
+            xmin = 2031.45007936508 
+            xmax = 2032.63007936508 
+            text = "turpintine" 
+        intervals [645]:
+            xmin = 2032.63007936508 
+            xmax = 2035.45007936508 
+            text = "" 
+        intervals [646]:
+            xmin = 2035.45007936508 
+            xmax = 2037.67007936508 
+            text = "and shotgun shells" 
+        intervals [647]:
+            xmin = 2037.67007936508 
+            xmax = 2038.49007936508 
+            text = "" 
+        intervals [648]:
+            xmin = 2038.49007936508 
+            xmax = 2044.47007936508 
+            text = "twenty two rifle bullets and a few odds and ends" 
+        intervals [649]:
+            xmin = 2044.47007936508 
+            xmax = 2047.10507936508 
+            text = "" 
+        intervals [650]:
+            xmin = 2047.10507936508 
+            xmax = 2047.80507936508 
+            text = "The" 
+        intervals [651]:
+            xmin = 2047.80507936508 
+            xmax = 2048.70507936508 
+            text = "" 
+        intervals [652]:
+            xmin = 2048.70507936508 
+            xmax = 2051.08507936508 
+            text = "groceries that we sold of course included" 
+        intervals [653]:
+            xmin = 2051.08507936508 
+            xmax = 2052.70507936508 
+            text = "" 
+        intervals [654]:
+            xmin = 2052.70507936508 
+            xmax = 2053.40507936508 
+            text = "sugar" 
+        intervals [655]:
+            xmin = 2053.40507936508 
+            xmax = 2053.88726498839 
+            text = "" 
+        intervals [656]:
+            xmin = 2053.88726498839 
+            xmax = 2056.28507936508 
+            text = "flour tea and coffee" 
+        intervals [657]:
+            xmin = 2056.28507936508 
+            xmax = 2057.20960735214 
+            text = "" 
+        intervals [658]:
+            xmin = 2057.20960735214 
+            xmax = 2058.09130590253 
+            text = "cereal" 
+        intervals [659]:
+            xmin = 2058.09130590253 
+            xmax = 2058.97005936508 
+            text = "" 
+        intervals [660]:
+            xmin = 2058.97005936508 
+            xmax = 2061.03007936508 
+            text = "spices extracts" 
+        intervals [661]:
+            xmin = 2061.03007936508 
+            xmax = 2062.10779291802 
+            text = "" 
+        intervals [662]:
+            xmin = 2062.10779291802 
+            xmax = 2065.51005936508 
+            text = "and candy and tobacco" 
+        intervals [663]:
+            xmin = 2065.51005936508 
+            xmax = 2068.04967445319 
+            text = "" 
+        intervals [664]:
+            xmin = 2068.04967445319 
+            xmax = 2069.51005936508 
+            text = "the flour" 
+        intervals [665]:
+            xmin = 2069.51005936508 
+            xmax = 2070.01007936508 
+            text = "" 
+        intervals [666]:
+            xmin = 2070.01007936508 
+            xmax = 2071.03007936508 
+            text = "and sugar" 
+        intervals [667]:
+            xmin = 2071.03007936508 
+            xmax = 2071.61507936508 
+            text = "" 
+        intervals [668]:
+            xmin = 2071.61507936508 
+            xmax = 2074.79507936508 
+            text = "Used to come to the store in barrels" 
+        intervals [669]:
+            xmin = 2074.79507936508 
+            xmax = 2075.53509936508 
+            text = "" 
+        intervals [670]:
+            xmin = 2075.53509936508 
+            xmax = 2081.35507936508 
+            text = "And then we sold it by the pound put it up in brown paper bags" 
+        intervals [671]:
+            xmin = 2081.35507936508 
+            xmax = 2083.13507936508 
+            text = "" 
+        intervals [672]:
+            xmin = 2083.13507936508 
+            xmax = 2089.71007936508 
+            text = "then later of course flower began to be packed in twenty five pound bags" 
+        intervals [673]:
+            xmin = 2089.71007936508 
+            xmax = 2090.45007936508 
+            text = "" 
+        intervals [674]:
+            xmin = 2090.45007936508 
+            xmax = 2097.55007936508 
+            text = "I don't recall if we ever had any smaller than that put up by the flower companies as they do today" 
+        intervals [675]:
+            xmin = 2097.55007936508 
+            xmax = 2098.53007936508 
+            text = "" 
+        intervals [676]:
+            xmin = 2098.53007936508 
+            xmax = 2099.11507936508 
+            text = "But" 
+        intervals [677]:
+            xmin = 2099.11507936508 
+            xmax = 2099.79507936508 
+            text = "" 
+        intervals [678]:
+            xmin = 2099.79507936508 
+            xmax = 2101.29505936508 
+            text = "in the early days" 
+        intervals [679]:
+            xmin = 2101.29505936508 
+            xmax = 2101.87505936508 
+            text = "" 
+        intervals [680]:
+            xmin = 2101.87505936508 
+            xmax = 2104.73507936508 
+            text = "he sold a great deal of flour by the barrel" 
+        intervals [681]:
+            xmin = 2104.73507936508 
+            xmax = 2105.39507936508 
+            text = "" 
+        intervals [682]:
+            xmin = 2105.39507936508 
+            xmax = 2117.57007936508 
+            text = "And on some of the trips where we delivered groceries outside the village why it was not at all unusual to have two or three barrels of flower on the delivery wagon" 
+        intervals [683]:
+            xmin = 2117.57007936508 
+            xmax = 2118.31007936508 
+            text = "" 
+        intervals [684]:
+            xmin = 2118.31007936508 
+            xmax = 2127.51505936508 
+            text = "You know families would buy a barrel of flour in the fall and that would carry them through the whole winter for their baking requirements" 
+        intervals [685]:
+            xmin = 2127.51505936508 
+            xmax = 2128.17507936508 
+            text = "" 
+        intervals [686]:
+            xmin = 2128.17507936508 
+            xmax = 2136.79505936508 
+            text = "Of course practically every woman baked her own bread in those days as well as cake cookies and pies and so on" 
+        intervals [687]:
+            xmin = 2136.79505936508 
+            xmax = 2138.67007936508 
+            text = "" 
+        intervals [688]:
+            xmin = 2138.67007936508 
+            xmax = 2142.17005936508 
+            text = "So we did quite a big business in bread flour" 
+        intervals [689]:
+            xmin = 2142.17005936508 
+            xmax = 2143.07007936508 
+            text = "" 
+        intervals [690]:
+            xmin = 2143.07007936508 
+            xmax = 2144.09007936508 
+            text = "Later on" 
+        intervals [691]:
+            xmin = 2144.09007936508 
+            xmax = 2144.75007936508 
+            text = "" 
+        intervals [692]:
+            xmin = 2144.75007936508 
+            xmax = 2158.37507936508 
+            text = "we sold baker's bread so called and I remember that it took many women refused buy it they said it was no good they could make a lot better bread themselves and I agree with them" 
+        intervals [693]:
+            xmin = 2158.37507936508 
+            xmax = 2159.43505936508 
+            text = "" 
+        intervals [694]:
+            xmin = 2159.43505936508 
+            xmax = 2167.85007936508 
+            text = "And then gradually however they they gave up the practice of baking their own bread to a great extent" 
+        intervals [695]:
+            xmin = 2167.85007936508 
+            xmax = 2169.15007936508 
+            text = "" 
+        intervals [696]:
+            xmin = 2169.15007936508 
+            xmax = 2173.13007936508 
+            text = "And then the baker's bread came through already sliced" 
+        intervals [697]:
+            xmin = 2173.13007936508 
+            xmax = 2173.63007936508 
+            text = "" 
+        intervals [698]:
+            xmin = 2173.63007936508 
+            xmax = 2186.40507936508 
+            text = "And again the women objected to this they said the bread didn't keep as well when it was already sliced and there was quite a bit of objection for quite a long while we carried both sliced and un sliced bread" 
+        intervals [699]:
+            xmin = 2186.40507936508 
+            xmax = 2186.90505936508 
+            text = "" 
+        intervals [700]:
+            xmin = 2186.90505936508 
+            xmax = 2193.92507936508 
+            text = "But gradually women accepted the sliced bread and finally we stopped carrying un sliced bread completely" 
+        intervals [701]:
+            xmin = 2193.92507936508 
+            xmax = 2195.93007936508 
+            text = "" 
+        intervals [702]:
+            xmin = 2195.93007936508 
+            xmax = 2200.79007936508 
+            text = "Sugar granulated sugar and brown sugar both came in in barrels" 
+        intervals [703]:
+            xmin = 2200.79007936508 
+            xmax = 2201.69007936508 
+            text = "" 
+        intervals [704]:
+            xmin = 2201.69007936508 
+            xmax = 2210.23007936508 
+            text = "These barrels were all of wood the same as the flour barrels but the sugar barrels were smaller than flour barrels because of course sugar is heavier" 
+        intervals [705]:
+            xmin = 2210.23007936508 
+            xmax = 2211.49507936508 
+            text = "" 
+        intervals [706]:
+            xmin = 2211.49507936508 
+            xmax = 2213.15507936508 
+            text = "As I recall the" 
+        intervals [707]:
+            xmin = 2213.15507936508 
+            xmax = 2214.21507936508 
+            text = "" 
+        intervals [708]:
+            xmin = 2214.21507936508 
+            xmax = 2219.71507936508 
+            text = "flour barrels contained about a hundred pounds and probably the sugar barrels did too" 
+        intervals [709]:
+            xmin = 2219.71507936508 
+            xmax = 2222.29507936508 
+            text = "" 
+        intervals [710]:
+            xmin = 2222.29507936508 
+            xmax = 2234.87007936508 
+            text = "The granulated sugar we used to weigh out into one pound lots and two pound lots and five pound lots and ten pound lots each in a brown paper bag and we would" 
+        intervals [711]:
+            xmin = 2234.87007936508 
+            xmax = 2236.01007936508 
+            text = "" 
+        intervals [712]:
+            xmin = 2236.01007936508 
+            xmax = 2248.62507936508 
+            text = "package the sugar during slack times during the store so that we'd have a a supply of it like they're handy and wouldn't have to stop to weigh it out whenever a lady wanted to buy a couple of pounds of sugar" 
+        intervals [713]:
+            xmin = 2248.62507936508 
+            xmax = 2251.84505936508 
+            text = "" 
+        intervals [714]:
+            xmin = 2251.84505936508 
+            xmax = 2255.10507936508 
+            text = "We used to deliver groceries" 
+        intervals [715]:
+            xmin = 2255.10507936508 
+            xmax = 2256.08007936508 
+            text = "" 
+        intervals [716]:
+            xmin = 2256.08007936508 
+            xmax = 2258.38007936508 
+            text = "Around the village North Dana" 
+        intervals [717]:
+            xmin = 2258.38007936508 
+            xmax = 2259.52007936508 
+            text = "" 
+        intervals [718]:
+            xmin = 2259.52007936508 
+            xmax = 2263.10007936508 
+            text = "three times a week Tuesday Thursday and Saturday" 
+        intervals [719]:
+            xmin = 2263.10007936508 
+            xmax = 2264.08007936508 
+            text = "" 
+        intervals [720]:
+            xmin = 2264.08007936508 
+            xmax = 2270.22507936508 
+            text = "And on the alternate days we delivered groceries outside the village on Monday" 
+        intervals [721]:
+            xmin = 2270.22507936508 
+            xmax = 2271.04507936508 
+            text = "" 
+        intervals [722]:
+            xmin = 2271.04507936508 
+            xmax = 2275.18507936508 
+            text = "We went on what we call the Doubleday village trip" 
+        intervals [723]:
+            xmin = 2275.18507936508 
+            xmax = 2275.76507936508 
+            text = "" 
+        intervals [724]:
+            xmin = 2275.76507936508 
+            xmax = 2276.46507936508 
+            text = "and" 
+        intervals [725]:
+            xmin = 2276.46507936508 
+            xmax = 2276.96507936508 
+            text = "" 
+        intervals [726]:
+            xmin = 2276.96507936508 
+            xmax = 2280.06507936508 
+            text = "on Wednesday to Dana Center" 
+        intervals [727]:
+            xmin = 2280.06507936508 
+            xmax = 2280.72509936508 
+            text = "" 
+        intervals [728]:
+            xmin = 2280.72509936508 
+            xmax = 2285.15007936508 
+            text = "and on Friday to the edge of Greenwich and Prescott" 
+        intervals [729]:
+            xmin = 2285.15007936508 
+            xmax = 2286.29007936508 
+            text = "" 
+        intervals [730]:
+            xmin = 2286.29007936508 
+            xmax = 2288.43007936508 
+            text = "The way we did this was" 
+        intervals [731]:
+            xmin = 2288.43007936508 
+            xmax = 2289.17007936508 
+            text = "" 
+        intervals [732]:
+            xmin = 2289.17007936508 
+            xmax = 2293.39005936508 
+            text = "in the case of the days when we delivered around the village" 
+        intervals [733]:
+            xmin = 2293.39005936508 
+            xmax = 2293.97005936508 
+            text = "" 
+        intervals [734]:
+            xmin = 2293.97005936508 
+            xmax = 2300.75909373859 
+            text = "we'd start out about half past seven in the morning and the hired man clerk would" 
+        intervals [735]:
+            xmin = 2300.75909373859 
+            xmax = 2301.06507936508 
+            text = "" 
+        intervals [736]:
+            xmin = 2301.06507936508 
+            xmax = 2302.16511936508 
+            text = "visit" 
+        intervals [737]:
+            xmin = 2302.16511936508 
+            xmax = 2303.46511936508 
+            text = "" 
+        intervals [738]:
+            xmin = 2303.46511936508 
+            xmax = 2305.92512936508 
+            text = "go up one particular street" 
+        intervals [739]:
+            xmin = 2305.92512936508 
+            xmax = 2306.50507936508 
+            text = "" 
+        intervals [740]:
+            xmin = 2306.50507936508 
+            xmax = 2311.68513936508 
+            text = "and write down the orders of the housewives in a little order book" 
+        intervals [741]:
+            xmin = 2311.68513936508 
+            xmax = 2312.43007936508 
+            text = "" 
+        intervals [742]:
+            xmin = 2312.43007936508 
+            xmax = 2322.33007936508 
+            text = "And then he would come back to the store and read that order book and take another one and go on a different street and meanwhile" 
+        intervals [743]:
+            xmin = 2322.33007936508 
+            xmax = 2322.91007936508 
+            text = "" 
+        intervals [744]:
+            xmin = 2322.91007936508 
+            xmax = 2328.17512936508 
+            text = "my dad would be putting up the orders that were taken from the first street" 
+        intervals [745]:
+            xmin = 2328.17512936508 
+            xmax = 2329.55507936508 
+            text = "" 
+        intervals [746]:
+            xmin = 2329.55507936508 
+            xmax = 2334.25507936508 
+            text = "And after the clerk had been around all the streets" 
+        intervals [747]:
+            xmin = 2334.25507936508 
+            xmax = 2335.07507936508 
+            text = "" 
+        intervals [748]:
+            xmin = 2335.07507936508 
+            xmax = 2337.29511936508 
+            text = "four of the streets I should say" 
+        intervals [749]:
+            xmin = 2337.29511936508 
+            xmax = 2338.11507936508 
+            text = "" 
+        intervals [750]:
+            xmin = 2338.11507936508 
+            xmax = 2339.37507936508 
+            text = "taking the orders" 
+        intervals [751]:
+            xmin = 2339.37507936508 
+            xmax = 2340.27511936508 
+            text = "" 
+        intervals [752]:
+            xmin = 2340.27511936508 
+            xmax = 2351.59004936508 
+            text = "Then by that time the first street would have the orders all ready for delivery they would be packed in individual crates as we called them these were little" 
+        intervals [753]:
+            xmin = 2351.59004936508 
+            xmax = 2352.17007936508 
+            text = "wooden" 
+        intervals [754]:
+            xmin = 2352.17007936508 
+            xmax = 2352.87007936508 
+            text = "boxes" 
+        intervals [755]:
+            xmin = 2352.87007936508 
+            xmax = 2354.95507936508 
+            text = "" 
+        intervals [756]:
+            xmin = 2354.95507936508 
+            xmax = 2357.33507936508 
+            text = "open spindles around the side" 
+        intervals [757]:
+            xmin = 2357.33507936508 
+            xmax = 2358.07507936508 
+            text = "" 
+        intervals [758]:
+            xmin = 2358.07507936508 
+            xmax = 2361.97511936508 
+            text = "roughly two feet square and maybe six or eight inches high" 
+        intervals [759]:
+            xmin = 2361.97511936508 
+            xmax = 2362.95507936508 
+            text = "" 
+        intervals [760]:
+            xmin = 2362.95507936508 
+            xmax = 2363.73512936508 
+            text = "And each" 
+        intervals [761]:
+            xmin = 2363.73512936508 
+            xmax = 2364.79507936508 
+            text = "" 
+        intervals [762]:
+            xmin = 2364.79507936508 
+            xmax = 2371.84007936508 
+            text = "lady's order would be packed in a separate crate so when you were delivering groceries why" 
+        intervals [763]:
+            xmin = 2371.84007936508 
+            xmax = 2372.58007936508 
+            text = "" 
+        intervals [764]:
+            xmin = 2372.58007936508 
+            xmax = 2378.72010936508 
+            text = "you nearly had to find some distinguishing article and he'd go about like" 
+        intervals [765]:
+            xmin = 2378.72010936508 
+            xmax = 2379.22011936508 
+            text = "" 
+        intervals [766]:
+            xmin = 2379.22011936508 
+            xmax = 2381.28007936508 
+            text = "one order might have an" 
+        intervals [767]:
+            xmin = 2381.28007936508 
+            xmax = 2381.90507936508 
+            text = "" 
+        intervals [768]:
+            xmin = 2381.90507936508 
+            xmax = 2385.62507936508 
+            text = "contain ten pounds of sugar but no flour and" 
+        intervals [769]:
+            xmin = 2385.62507936508 
+            xmax = 2386.22507936508 
+            text = "" 
+        intervals [770]:
+            xmin = 2386.22507936508 
+            xmax = 2390.28507936508 
+            text = "so on another order might contain" 
+        intervals [771]:
+            xmin = 2390.28507936508 
+            xmax = 2391.02507936508 
+            text = "" 
+        intervals [772]:
+            xmin = 2391.02507936508 
+            xmax = 2392.52503936508 
+            text = "a pound of coffee but" 
+        intervals [773]:
+            xmin = 2392.52503936508 
+            xmax = 2393.26504936508 
+            text = "" 
+        intervals [774]:
+            xmin = 2393.26504936508 
+            xmax = 2402.42007936508 
+            text = "no not when you put the spindles together pick up that crate and carry it into the house and leave it on the kitchen table" 
+        intervals [775]:
+            xmin = 2402.42007936508 
+            xmax = 2404.20007936508 
+            text = "" 
+        intervals [776]:
+            xmin = 2404.20007936508 
+            xmax = 2408.30457936508 
+            text = "Then for the outside trip we would" 
+        intervals [777]:
+            xmin = 2408.30457936508 
+            xmax = 2409.84457936508 
+            text = "" 
+        intervals [778]:
+            xmin = 2409.84457936508 
+            xmax = 2414.38457936508 
+            text = "the clerk would go around for example to the Doubleday Village area" 
+        intervals [779]:
+            xmin = 2414.38457936508 
+            xmax = 2414.66968253968 
+            text = "" 
+        intervals [780]:
+            xmin = 2414.66968253968 
+            xmax = 2415.02968253968 
+            text = "" 
+        intervals [781]:
+            xmin = 2415.02968253968 
+            xmax = 2429.04468253968 
+            text = "In the early morning and come back and as soon as he got back like he and dad together would put up the orders that he had taken and then after dinner after lunch why" 
+        intervals [782]:
+            xmin = 2429.04468253968 
+            xmax = 2432.06468253968 
+            text = "he would start out again and deliver those orders" 
+        intervals [783]:
+            xmin = 2432.06468253968 
+            xmax = 2433.04468253968 
+            text = "" 
+        intervals [784]:
+            xmin = 2433.04468253968 
+            xmax = 2436.86468253968 
+            text = "in the same way on the other outside trips" 
+        intervals [785]:
+            xmin = 2436.86468253968 
+            xmax = 2438.48468253968 
+            text = "" 
+        intervals [786]:
+            xmin = 2438.48468253968 
+            xmax = 2440.70468253968 
+            text = "And dad I always had" 
+        intervals [787]:
+            xmin = 2440.70468253968 
+            xmax = 2441.20468253968 
+            text = "" 
+        intervals [788]:
+            xmin = 2441.20468253968 
+            xmax = 2442.54968253968 
+            text = "one clerk" 
+        intervals [789]:
+            xmin = 2442.54968253968 
+            xmax = 2443.44968253968 
+            text = "" 
+        intervals [790]:
+            xmin = 2443.44968253968 
+            xmax = 2447.02968253968 
+            text = "the first one that I can remember was Ernest Taskins" 
+        intervals [791]:
+            xmin = 2447.02968253968 
+            xmax = 2448.56968253968 
+            text = "" 
+        intervals [792]:
+            xmin = 2448.56968253968 
+            xmax = 2452.14968253968 
+            text = "And then there was Claudie Powers" 
+        intervals [793]:
+            xmin = 2452.14968253968 
+            xmax = 2453.76968253968 
+            text = "" 
+        intervals [794]:
+            xmin = 2453.76968253968 
+            xmax = 2454.86967953968 
+            text = "Henry Carey" 
+        intervals [795]:
+            xmin = 2454.86967953968 
+            xmax = 2457.31467953968 
+            text = "" 
+        intervals [796]:
+            xmin = 2457.31467953968 
+            xmax = 2459.13467853968 
+            text = "And Walter Grover" 
+        intervals [797]:
+            xmin = 2459.13467853968 
+            xmax = 2460.27467853968 
+            text = "" 
+        intervals [798]:
+            xmin = 2460.27467853968 
+            xmax = 2462.09468253968 
+            text = "And then Jimmy Woodman" 
+        intervals [799]:
+            xmin = 2462.09468253968 
+            xmax = 2463.95467953968 
+            text = "" 
+        intervals [800]:
+            xmin = 2463.95467953968 
+            xmax = 2473.89968253968 
+            text = "Jimmy was I believe the last clerk that dad had and he had been working in Athol but maintaining a hard home in North Dana" 
+        intervals [801]:
+            xmin = 2473.89968253968 
+            xmax = 2474.23968253968 
+            text = "" 
+        intervals [802]:
+            xmin = 2474.23968253968 
+            xmax = 2484.39468853968 
+            text = "and dad convinced him that he'd be better off to come and work for him instead of in the shop in Athol and Jimmy did work for him for quite a few years" 
+        intervals [803]:
+            xmin = 2484.39468853968 
+            xmax = 2486.41468253968 
+            text = "" 
+        intervals [804]:
+            xmin = 2486.41468253968 
+            xmax = 2491.75469253968 
+            text = "I first came into close contact with the store when I had started in school" 
+        intervals [805]:
+            xmin = 2491.75469253968 
+            xmax = 2492.41469253968 
+            text = "" 
+        intervals [806]:
+            xmin = 2492.41469253968 
+            xmax = 2500.00968653968 
+            text = "which was when I was about five years old the grammar school was right across the street from my father's store" 
+        intervals [807]:
+            xmin = 2500.00968653968 
+            xmax = 2502.18968253968 
+            text = "" 
+        intervals [808]:
+            xmin = 2502.18968253968 
+            xmax = 2504.7300764061 
+            text = "So at the lunchtime" 
+        intervals [809]:
+            xmin = 2504.7300764061 
+            xmax = 2505.38968253968 
+            text = "" 
+        intervals [810]:
+            xmin = 2505.38968253968 
+            xmax = 2510.81468653968 
+            text = "I would go home and had my lunch and went on the road back school" 
+        intervals [811]:
+            xmin = 2510.81468653968 
+            xmax = 2511.71468253968 
+            text = "" 
+        intervals [812]:
+            xmin = 2511.71468253968 
+            xmax = 2515.53964083909 
+            text = "I would stop at the store and pump kerosene" 
+        intervals [813]:
+            xmin = 2515.53964083909 
+            xmax = 2516.27468253968 
+            text = "" 
+        intervals [814]:
+            xmin = 2516.27468253968 
+            xmax = 2520.10147246932 
+            text = "In those days we sold quite a lot of kerosene" 
+        intervals [815]:
+            xmin = 2520.10147246932 
+            xmax = 2520.75468253968 
+            text = "" 
+        intervals [816]:
+            xmin = 2520.75468253968 
+            xmax = 2521.61468253968 
+            text = "You need" 
+        intervals [817]:
+            xmin = 2521.61468253968 
+            xmax = 2522.20968753968 
+            text = "" 
+        intervals [818]:
+            xmin = 2522.20968753968 
+            xmax = 2526.66968253968 
+            text = "five gallon cans or one gallon cans whichever the customer finds" 
+        intervals [819]:
+            xmin = 2526.66968253968 
+            xmax = 2527.88968253968 
+            text = "" 
+        intervals [820]:
+            xmin = 2527.88968253968 
+            xmax = 2536.18968653968 
+            text = "We stored the kerosene in a big tank probably held a thousand gallons or so which was located in the back of the store" 
+        intervals [821]:
+            xmin = 2536.18968653968 
+            xmax = 2537.07468253968 
+            text = "" 
+        intervals [822]:
+            xmin = 2537.07468253968 
+            xmax = 2541.93468253968 
+            text = "And then there was a pump which was operated by a crank" 
+        intervals [823]:
+            xmin = 2541.93468253968 
+            xmax = 2543.31468253968 
+            text = "" 
+        intervals [824]:
+            xmin = 2543.31468253968 
+            xmax = 2553.97968253968 
+            text = "located on this tankn so you kept the customer's can under the muzzle of the pump and then you turn the crank and" 
+        intervals [825]:
+            xmin = 2553.97968253968 
+            xmax = 2555.03968253968 
+            text = "" 
+        intervals [826]:
+            xmin = 2555.03968253968 
+            xmax = 2564.45969253968 
+            text = "how is the shaft to go and that would be one gallon so if it was a a five gallon can that you were filling you would have to" 
+        intervals [827]:
+            xmin = 2564.45969253968 
+            xmax = 2565.21468253968 
+            text = "" 
+        intervals [828]:
+            xmin = 2565.21468253968 
+            xmax = 2567.11467253968 
+            text = "Reverse the crank to" 
+        intervals [829]:
+            xmin = 2567.11467253968 
+            xmax = 2567.61467253968 
+            text = "" 
+        intervals [830]:
+            xmin = 2567.61467253968 
+            xmax = 2571.43468253968 
+            text = "return the pump to its starting point and then crank it up again" 
+        intervals [831]:
+            xmin = 2571.43468253968 
+            xmax = 2572.01468253968 
+            text = "" 
+        intervals [832]:
+            xmin = 2572.01468253968 
+            xmax = 2577.51468253968 
+            text = "And you'd probably have to turn that crank handle around about ten times for each gallon" 
+        intervals [833]:
+            xmin = 2577.51468253968 
+            xmax = 2578.10968253968 
+            text = "" 
+        intervals [834]:
+            xmin = 2578.10968253968 
+            xmax = 2582.24968253968 
+            text = "And I remember that I had to do that" 
+        intervals [835]:
+            xmin = 2582.24968253968 
+            xmax = 2584.34968253968 
+            text = "" 
+        intervals [836]:
+            xmin = 2584.34968253968 
+            xmax = 2594.49468253968 
+            text = "and I was still so small that I couldn't reach the handle from the floor but I had to climb up and stand on the tank and turn the handle from there" 
+        intervals [837]:
+            xmin = 2594.49468253968 
+            xmax = 2595.07469253968 
+            text = "" 
+        intervals [838]:
+            xmin = 2595.07469253968 
+            xmax = 2600.17468253968 
+            text = "And if I was filling a five gallon can why when I got it full I'd have to" 
+        intervals [839]:
+            xmin = 2600.17468253968 
+            xmax = 2600.83468253968 
+            text = "" 
+        intervals [840]:
+            xmin = 2600.83468253968 
+            xmax = 2612.52968253968 
+            text = "holler the dad or the clerk and he would come and lift the tank the can down f or me if it was a one gallon can why I could handle that myself" 
+        intervals [841]:
+            xmin = 2612.52968253968 
+            xmax = 2613.18968253968 
+            text = "" 
+        intervals [842]:
+            xmin = 2613.18968253968 
+            xmax = 2623.51468253968 
+            text = "And I would pump kerosene for maybe ten or fifteen minutes until the school bell rang and then I would dash across the street to school" 
+        intervals [843]:
+            xmin = 2623.51468253968 
+            xmax = 2625.85468253968 
+            text = "" 
+        intervals [844]:
+            xmin = 2625.85468253968 
+            xmax = 2630.07468253968 
+            text = "It wasn't long before I had to also help in the store on Saturday" 
+        intervals [845]:
+            xmin = 2630.07468253968 
+            xmax = 2631.05468253968 
+            text = "" 
+        intervals [846]:
+            xmin = 2631.05468253968 
+            xmax = 2632.87468253968 
+            text = "And this meant helping" 
+        intervals [847]:
+            xmin = 2632.87468253968 
+            xmax = 2633.61468253968 
+            text = "" 
+        intervals [848]:
+            xmin = 2633.61468253968 
+            xmax = 2640.61969253968 
+            text = "to deliver groceries Saturday morning and then waiting on customers in the afternoon and evening" 
+        intervals [849]:
+            xmin = 2640.61969253968 
+            xmax = 2642.07968253968 
+            text = "" 
+        intervals [850]:
+            xmin = 2642.07968253968 
+            xmax = 2643.81969253968 
+            text = "Dad opened his" 
+        intervals [851]:
+            xmin = 2643.81969253968 
+            xmax = 2644.71968253968 
+            text = "store" 
+        intervals [852]:
+            xmin = 2644.71968253968 
+            xmax = 2656.57468253968 
+            text = "Every morning or the clerk opened it every morning about half past six to accommodate people going to the shops to work because the shops started work at seven o'clock" 
+        intervals [853]:
+            xmin = 2656.57468253968 
+            xmax = 2657.07468253968 
+            text = "" 
+        intervals [854]:
+            xmin = 2657.07468253968 
+            xmax = 2666.96968253968 
+            text = "and this allowed people to stop and by a tug of tobacco or whatever they might want like that on their way to work in the evening" 
+        intervals [855]:
+            xmin = 2666.96968253968 
+            xmax = 2668.18968253968 
+            text = "" 
+        intervals [856]:
+            xmin = 2668.18968253968 
+            xmax = 2683.06470253968 
+            text = "we kept the stores one until half past seven every night except on Wednesday night Wednesday night we'd close early close at half past six on Wednesday night but Saturday night we would keep open until around nine o'clock" 
+        intervals [857]:
+            xmin = 2683.06470253968 
+            xmax = 2683.56468253968 
+            text = "" 
+        intervals [858]:
+            xmin = 2683.56468253968 
+            xmax = 2689.38471253968 
+            text = "because Saturday night was when the people who lived outside the village would" 
+        intervals [859]:
+            xmin = 2689.38471253968 
+            xmax = 2689.96471253968 
+            text = "" 
+        intervals [860]:
+            xmin = 2689.96471253968 
+            xmax = 2692.34470253968 
+            text = "come in to do their weekly shopping" 
+        intervals [861]:
+            xmin = 2692.34470253968 
+            xmax = 2693.10968253968 
+            text = "" 
+        intervals [862]:
+            xmin = 2693.10968253968 
+            xmax = 2696.12968253968 
+            text = "Many of these people would bring in some butter" 
+        intervals [863]:
+            xmin = 2696.12968253968 
+            xmax = 2696.70968253968 
+            text = "" 
+        intervals [864]:
+            xmin = 2696.70968253968 
+            xmax = 2699.80968253968 
+            text = "some eggs or something like that from their farms" 
+        intervals [865]:
+            xmin = 2699.80968253968 
+            xmax = 2700.38968253968 
+            text = "" 
+        intervals [866]:
+            xmin = 2700.38968253968 
+            xmax = 2705.96968253968 
+            text = "and buy groceries and trade in the produce that they had towards their groceries" 
+        intervals [867]:
+            xmin = 2705.96968253968 
+            xmax = 2707.18468253968 
+            text = "" 
+        intervals [868]:
+            xmin = 2707.18468253968 
+            xmax = 2712.74468253968 
+            text = "They'd stock up this way for a whole week and I remember that" 
+        intervals [869]:
+            xmin = 2712.74468253968 
+            xmax = 2713.34468253968 
+            text = "" 
+        intervals [870]:
+            xmin = 2713.34468253968 
+            xmax = 2722.36468253968 
+            text = "we sold a lot of salt pork to those people salt pork came in large barrels of course with the brine in the barrels" 
+        intervals [871]:
+            xmin = 2722.36468253968 
+            xmax = 2722.75968253968 
+            text = "" 
+        intervals [872]:
+            xmin = 2722.75968253968 
+            xmax = 2735.29968253968 
+            text = "And the salt pork came in big chunks in this brine and we would cut it up into whatever quantity the customer wanted one pound two pounds or five pounds whatever he wanted" 
+        intervals [873]:
+            xmin = 2735.29968253968 
+            xmax = 2736.75468253968 
+            text = "" 
+        intervals [874]:
+            xmin = 2736.75468253968 
+            xmax = 2746.41468253968 
+            text = "We didn't sell any fresh meat at Hager's store they carried fresh meat but we did not have a big refrigerator" 
+        intervals [875]:
+            xmin = 2746.41468253968 
+            xmax = 2747.47468253968 
+            text = "" 
+        intervals [876]:
+            xmin = 2747.47468253968 
+            xmax = 2755.29968253968 
+            text = "So we sold only canned meats plus such things as salt pork and bacon" 
+        intervals [877]:
+            xmin = 2755.29968253968 
+            xmax = 2755.65878272503 
+            text = "" 
+        intervals [878]:
+            xmin = 2755.65878272503 
+            xmax = 2770.87468253968 
+            text = "and butter we used to get butter which came in tubs as they were called there were wooden a cast which probably held about fifty pounds of butter but we also had butter that was individually" 
+        intervals [879]:
+            xmin = 2770.87468253968 
+            xmax = 2771.53468253968 
+            text = "" 
+        intervals [880]:
+            xmin = 2771.53468253968 
+            xmax = 2774.15468253968 
+            text = "wrapped in one pound packages" 
+        intervals [881]:
+            xmin = 2774.15468253968 
+            xmax = 2776.05968253968 
+            text = "" 
+        intervals [882]:
+            xmin = 2776.05968253968 
+            xmax = 2788.51968253968 
+            text = "And then of course we sold quite a lot of dairy butter that is butter made by the local farmers and many people thought the local farmers' butter was much better than the commercial butter" 
+        intervals [883]:
+            xmin = 2788.51968253968 
+            xmax = 2789.95470253968 
+            text = "" 
+        intervals [884]:
+            xmin = 2789.95470253968 
+            xmax = 2791.29468253968 
+            text = "A lot of the groceries" 
+        intervals [885]:
+            xmin = 2791.29468253968 
+            xmax = 2791.87468253968 
+            text = "" 
+        intervals [886]:
+            xmin = 2791.87468253968 
+            xmax = 2795.93468253968 
+            text = "came in bulk rather than packages as they do today" 
+        intervals [887]:
+            xmin = 2795.93468253968 
+            xmax = 2796.59468253968 
+            text = "" 
+        intervals [888]:
+            xmin = 2796.59468253968 
+            xmax = 2799.93468253968 
+            text = "And I remember the first package" 
+        intervals [889]:
+            xmin = 2799.93468253968 
+            xmax = 2800.43468253968 
+            text = "" 
+        intervals [890]:
+            xmin = 2800.43468253968 
+            xmax = 2806.30966253968 
+            text = "cereal that I can recall was cornflakes and shredded wheat and grape nuts" 
+        intervals [891]:
+            xmin = 2806.30966253968 
+            xmax = 2806.96968253968 
+            text = "" 
+        intervals [892]:
+            xmin = 2806.96968253968 
+            xmax = 2808.94968253968 
+            text = "And of course we also sold" 
+        intervals [893]:
+            xmin = 2808.94968253968 
+            xmax = 2809.52968253968 
+            text = "" 
+        intervals [894]:
+            xmin = 2809.52968253968 
+            xmax = 2812.14966253968 
+            text = "rolled oat but this came" 
+        intervals [895]:
+            xmin = 2812.14966253968 
+            xmax = 2812.64968253968 
+            text = "" 
+        intervals [896]:
+            xmin = 2812.64968253968 
+            xmax = 2818.54968253968 
+            text = "usually in a barrel in the bulk and we weighed it out by the pound at the customer's order" 
+        intervals [897]:
+            xmin = 2818.54968253968 
+            xmax = 2820.34468253968 
+            text = "" 
+        intervals [898]:
+            xmin = 2820.34468253968 
+            xmax = 2828.00470253968 
+            text = "With things like prunes dried prunes and apricots came in wooden boxes and again we weighed out" 
+        intervals [899]:
+            xmin = 2828.00470253968 
+            xmax = 2828.58470253968 
+            text = "" 
+        intervals [900]:
+            xmin = 2828.58470253968 
+            xmax = 2832.00470253968 
+            text = "half a pound or a pound or whatever the customer wanted" 
+        intervals [901]:
+            xmin = 2832.00470253968 
+            xmax = 2833.29970253968 
+            text = "" 
+        intervals [902]:
+            xmin = 2833.29970253968 
+            xmax = 2835.75971253968 
+            text = "We pulled quite a lot of cookies" 
+        intervals [903]:
+            xmin = 2835.75971253968 
+            xmax = 2836.73970253968 
+            text = "" 
+        intervals [904]:
+            xmin = 2836.73970253968 
+            xmax = 2843.59970253968 
+            text = "and these came in bulk came in boxes of probably ten or fifteen pounds to a box" 
+        intervals [905]:
+            xmin = 2843.59970253968 
+            xmax = 2844.17970253968 
+            text = "" 
+        intervals [906]:
+            xmin = 2844.17970253968 
+            xmax = 2854.87468253968 
+            text = "And these boxes sat in racks in the store with glass covers on them so the customers could see the cookies inside and" 
+        intervals [907]:
+            xmin = 2854.87468253968 
+            xmax = 2855.37468253968 
+            text = "" 
+        intervals [908]:
+            xmin = 2855.37468253968 
+            xmax = 2867.66968253968 
+            text = "they would look them over and decide which kind they wanted sometimes they'd order a pound of mixed cookies and we put in a few cookies of this kind and a few of that kind and" 
+        intervals [909]:
+            xmin = 2867.66968253968 
+            xmax = 2867.92968253968 
+            text = "" 
+        intervals [910]:
+            xmin = 2867.92968253968 
+            xmax = 2882.28468253968 
+            text = "a few of another kind you know and although there were different prices of course for the different kinds of cookies why would he kind of try to strike an average as to the kinds if we put into it bag and also" 
+        intervals [911]:
+            xmin = 2882.28468253968 
+            xmax = 2882.54468253968 
+            text = "" 
+        intervals [912]:
+            xmin = 2882.54468253968 
+            xmax = 2891.12968253968 
+            text = "charge different average price for them and that was quite quite popular I recall ladies would order a pound of mixed cookies" 
+        intervals [913]:
+            xmin = 2891.12968253968 
+            xmax = 2892.26968253968 
+            text = "" 
+        intervals [914]:
+            xmin = 2892.26968253968 
+            xmax = 2906.64468253968 
+            text = "we sold quite a lot of candy because as I had said the store was across the street from the school so during recess and lunch time why if a kid had a couple of extra pennies to spend he could come over and buy some candy" 
+        intervals [915]:
+            xmin = 2906.64468253968 
+            xmax = 2907.46468253968 
+            text = "" 
+        intervals [916]:
+            xmin = 2907.46468253968 
+            xmax = 2913.20468253968 
+            text = "And I recall that whenever I was in the store if the candy salesman came" 
+        intervals [917]:
+            xmin = 2913.20468253968 
+            xmax = 2913.77968253968 
+            text = "" 
+        intervals [918]:
+            xmin = 2913.77968253968 
+            xmax = 2914.71968253968 
+            text = "he would" 
+        intervals [919]:
+            xmin = 2914.71968253968 
+            xmax = 2915.21968253968 
+            text = "" 
+        intervals [920]:
+            xmin = 2915.21968253968 
+            xmax = 2927.83472253968 
+            text = "spread out his samples he had some folding trays I remember and he would open up these folding trays with all these samples of different kinds of candy in them and dad would let me" 
+        intervals [921]:
+            xmin = 2927.83472253968 
+            xmax = 2928.49468253968 
+            text = "" 
+        intervals [922]:
+            xmin = 2928.49468253968 
+            xmax = 2935.19468253968 
+            text = "order the different kinds of candy that I lauded he figured that if I chose a particular" 
+        intervals [923]:
+            xmin = 2935.19468253968 
+            xmax = 2935.85468253968 
+            text = "" 
+        intervals [924]:
+            xmin = 2935.85468253968 
+            xmax = 2950.18964253968 
+            text = "kind of candy why probably the other kids would like that kind too and I guess it seems to have worked out pretty well because he let me do it for a good many years whenever I was around when the candy salesman came" 
+        intervals [925]:
+            xmin = 2950.18964253968 
+            xmax = 2951.88968253968 
+            text = "" 
+        intervals [926]:
+            xmin = 2951.88968253968 
+            xmax = 2955.06964253968 
+            text = "We also sold soft drinks" 
+        intervals [927]:
+            xmin = 2955.06964253968 
+            xmax = 2955.61468253968 
+            text = "" 
+        intervals [928]:
+            xmin = 2955.61468253968 
+            xmax = 2958.31468253968 
+            text = "Moxie and ginger ale and" 
+        intervals [929]:
+            xmin = 2958.31468253968 
+            xmax = 2959.77468253968 
+            text = "" 
+        intervals [930]:
+            xmin = 2959.77468253968 
+            xmax = 2962.71468253968 
+            text = "cream soda and root beer" 
+        intervals [931]:
+            xmin = 2962.71468253968 
+            xmax = 2963.29468253968 
+            text = "" 
+        intervals [932]:
+            xmin = 2963.29468253968 
+            xmax = 2965.25468253968 
+            text = "and some of those things we'd" 
+        intervals [933]:
+            xmin = 2965.25468253968 
+            xmax = 2966.01468253968 
+            text = "" 
+        intervals [934]:
+            xmin = 2966.01468253968 
+            xmax = 2968.95471253968 
+            text = "store them out in a in a glass and" 
+        intervals [935]:
+            xmin = 2968.95471253968 
+            xmax = 2970.33968253968 
+            text = "" 
+        intervals [936]:
+            xmin = 2970.33968253968 
+            xmax = 2983.51968253968 
+            text = "at the customer's request if you ordered a glass of Moxie why we opened a big bottle and poured out a tumbler Moxie for you and then rinsed the glass in a bucket of water to clean it" 
+        intervals [937]:
+            xmin = 2983.51968253968 
+            xmax = 2985.00510204082 
+            text = "" 
+        intervals [938]:
+            xmin = 2985.00510204082 
+            xmax = 2985.36510204082 
+            text = "" 
+        intervals [939]:
+            xmin = 2985.36510204082 
+            xmax = 2986.22510204082 
+            text = "We also" 
+        intervals [940]:
+            xmin = 2986.22510204082 
+            xmax = 2986.72510204082 
+            text = "" 
+        intervals [941]:
+            xmin = 2986.72510204082 
+            xmax = 2987.73160265473 
+            text = "sold" 
+        intervals [942]:
+            xmin = 2987.73160265473 
+            xmax = 2989.52510204082 
+            text = "" 
+        intervals [943]:
+            xmin = 2989.52510204082 
+            xmax = 2991.02510204082 
+            text = "extracts like" 
+        intervals [944]:
+            xmin = 2991.02510204082 
+            xmax = 2991.60510174082 
+            text = "" 
+        intervals [945]:
+            xmin = 2991.60510174082 
+            xmax = 3000.51010204082 
+            text = "vanilla extract and peppermint extract and so on for flavoring ring of course and during the days of Prohibition why" 
+        intervals [946]:
+            xmin = 3000.51010204082 
+            xmax = 3001.25010204082 
+            text = "" 
+        intervals [947]:
+            xmin = 3001.25010204082 
+            xmax = 3014.84510204082 
+            text = "some of the men in town would buy quite a lot of these extracts because of course many of them were put up in alcohol so we did quite a brisk business prohibition days of" 
+        intervals [948]:
+            xmin = 3014.84510204082 
+            xmax = 3015.42510104082 
+            text = "" 
+        intervals [949]:
+            xmin = 3015.42510104082 
+            xmax = 3020.20510204082 
+            text = "extract of vanilla extract of ginger and things like that" 
+        intervals [950]:
+            xmin = 3020.20510204082 
+            xmax = 3021.42510204082 
+            text = "" 
+        intervals [951]:
+            xmin = 3021.42510204082 
+            xmax = 3023.16510204082 
+            text = "Well so" 
+        intervals [952]:
+            xmin = 3023.16510204082 
+            xmax = 3023.63103033624 
+            text = "" 
+        intervals [953]:
+            xmin = 3023.63103033624 
+            xmax = 3027.16510204082 
+            text = "veterinary medicine we had a cabinet I recall of" 
+        intervals [954]:
+            xmin = 3027.16510204082 
+            xmax = 3027.69010204082 
+            text = "" 
+        intervals [955]:
+            xmin = 3027.69010204082 
+            xmax = 3031.67009904082 
+            text = "Doctor. A. C. Daniel's veterinary medicine" 
+        intervals [956]:
+            xmin = 3031.67009904082 
+            xmax = 3032.25010204082 
+            text = "" 
+        intervals [957]:
+            xmin = 3032.25010204082 
+            xmax = 3045.74510204082 
+            text = "and we sold a colic healer for horses and I don't recall many of the other specific things but the farmers would occasionally come in to buy something like that for their farm animal" 
+        intervals [958]:
+            xmin = 3045.74510204082 
+            xmax = 3046.64510204082 
+            text = "" 
+        intervals [959]:
+            xmin = 3046.64510204082 
+            xmax = 3052.22510204082 
+            text = "We did sell quite a lot of food that came packed in tin cans" 
+        intervals [960]:
+            xmin = 3052.22510204082 
+            xmax = 3053.12510204082 
+            text = "" 
+        intervals [961]:
+            xmin = 3053.12510204082 
+            xmax = 3055.16010204082 
+            text = "especially vegetables like" 
+        intervals [962]:
+            xmin = 3055.16010204082 
+            xmax = 3055.76010204082 
+            text = "" 
+        intervals [963]:
+            xmin = 3055.76010204082 
+            xmax = 3068.14009704082 
+            text = "peas and leeks and then fruit like the canned peaches and pears and things like that all of this canned food came to us in wooden boxes" 
+        intervals [964]:
+            xmin = 3068.14009704082 
+            xmax = 3069.07510204082 
+            text = "" 
+        intervals [965]:
+            xmin = 3069.07510204082 
+            xmax = 3072.17510204082 
+            text = "There were no cardboard boxes until" 
+        intervals [966]:
+            xmin = 3072.17510204082 
+            xmax = 3073.07510204082 
+            text = "" 
+        intervals [967]:
+            xmin = 3073.07510204082 
+            xmax = 3076.73509804082 
+            text = "nearly the time that dad went out of the store business" 
+        intervals [968]:
+            xmin = 3076.73509804082 
+            xmax = 3077.47510204082 
+            text = "" 
+        intervals [969]:
+            xmin = 3077.47510204082 
+            xmax = 3078.73509804082 
+            text = "but they" 
+        intervals [970]:
+            xmin = 3078.73509804082 
+            xmax = 3079.39510204082 
+            text = "" 
+        intervals [971]:
+            xmin = 3079.39510204082 
+            xmax = 3082.41509804082 
+            text = "in fact at least everything came packed in wooden boxes" 
+        intervals [972]:
+            xmin = 3082.41509804082 
+            xmax = 3083.05010204082 
+            text = "" 
+        intervals [973]:
+            xmin = 3083.05010204082 
+            xmax = 3089.11010204082 
+            text = "And so we had a great many of these empty wooden boxes to get rid of and when we" 
+        intervals [974]:
+            xmin = 3089.11010204082 
+            xmax = 3089.93010204082 
+            text = "" 
+        intervals [975]:
+            xmin = 3089.93010204082 
+            xmax = 3102.68510204082 
+            text = "emptied out the contents of a wooden box and put the cans on to one of the shelves then we would throw the empty box out the back door of the store and then about once a year why we'd" 
+        intervals [976]:
+            xmin = 3102.68510204082 
+            xmax = 3102.94510204082 
+            text = "" 
+        intervals [977]:
+            xmin = 3102.94510204082 
+            xmax = 3111.47010204082 
+            text = "take a day off when we could spare it and carry all these empty boxes and accumulated debris to the town dump" 
+        intervals [978]:
+            xmin = 3111.47010204082 
+            xmax = 3112.07010204082 
+            text = "" 
+        intervals [979]:
+            xmin = 3112.07010204082 
+            xmax = 3117.49010204082 
+            text = "But these empty wooden boxes being out there right by the back door of the store" 
+        intervals [980]:
+            xmin = 3117.49010204082 
+            xmax = 3118.23010204082 
+            text = "" 
+        intervals [981]:
+            xmin = 3118.23010204082 
+            xmax = 3132.42511204082 
+            text = "meant that when we went home such as to lunch and thing we usually went out that back door and in the summertime I was nearly always barefoot I hardly ever wore shoes in the summertime" 
+        intervals [982]:
+            xmin = 3132.42511204082 
+            xmax = 3138.16510204082 
+            text = "as a kid because I enjoyed the freedom of going barefoot but" 
+        intervals [983]:
+            xmin = 3138.16510204082 
+            xmax = 3138.66510204082 
+            text = "" 
+        intervals [984]:
+            xmin = 3138.66510204082 
+            xmax = 3148.39010204082 
+            text = "two or three times during the summer I would go out the back door and accidentally stepped on a nail which was in the cover of one of these boxes" 
+        intervals [985]:
+            xmin = 3148.39010204082 
+            xmax = 3149.05010204082 
+            text = "" 
+        intervals [986]:
+            xmin = 3149.05010204082 
+            xmax = 3157.11010204082 
+            text = "and stick this nail into myself so I would go back in the store and say dad I just stepped on a nail he'd say okay" 
+        intervals [987]:
+            xmin = 3157.11010204082 
+            xmax = 3157.63510204082 
+            text = "" 
+        intervals [988]:
+            xmin = 3157.63510204082 
+            xmax = 3160.33510204082 
+            text = "Come out and he would go to the" 
+        intervals [989]:
+            xmin = 3160.33510204082 
+            xmax = 3161.07510204082 
+            text = "" 
+        intervals [990]:
+            xmin = 3161.07510204082 
+            xmax = 3173.71010204082 
+            text = "dry goods department where he kept the bolts cloth and he would take down a bolt of unbleached muslin and tear a strip off for a bandage" 
+        intervals [991]:
+            xmin = 3173.71010204082 
+            xmax = 3174.21010204082 
+            text = "" 
+        intervals [992]:
+            xmin = 3174.21010204082 
+            xmax = 3187.23510204082 
+            text = "and then we would go back to the back end of the tour where the hardware was kept and he would wrap this bandage around my foot and then pour some turpentine onto the bandage and it would sting for a minute" 
+        intervals [993]:
+            xmin = 3187.23510204082 
+            xmax = 3187.51509204082 
+            text = "" 
+        intervals [994]:
+            xmin = 3187.51509204082 
+            xmax = 3192.61510204082 
+            text = "And he'd just say okay run around now and so I'd go on about my business" 
+        intervals [995]:
+            xmin = 3192.61510204082 
+            xmax = 3193.83510204082 
+            text = "" 
+        intervals [996]:
+            xmin = 3193.83510204082 
+            xmax = 3202.45510204082 
+            text = "I never had any abscesses or inflamatiopn from stepping on one of those nails I don't know whether the turpentine" 
+        intervals [997]:
+            xmin = 3202.45510204082 
+            xmax = 3202.98010204082 
+            text = "" 
+        intervals [998]:
+            xmin = 3202.98010204082 
+            xmax = 3213.76010204082 
+            text = "prevented it whether I just was naturally immune but I know that as I say I never had any trouble cause of stepping on one of those nails anyway" 
+        intervals [999]:
+            xmin = 3213.76010204082 
+            xmax = 3215.07510204082 
+            text = "" 
+        intervals [1000]:
+            xmin = 3215.07510204082 
+            xmax = 3220.97510204082 
+            text = "When I was small we did all the delivering of the groceries with a horse and wagon" 
+        intervals [1001]:
+            xmin = 3220.97510204082 
+            xmax = 3222.19510204082 
+            text = "" 
+        intervals [1002]:
+            xmin = 3222.19510204082 
+            xmax = 3225.13510204082 
+            text = "And then later on we got" 
+        intervals [1003]:
+            xmin = 3225.13510204082 
+            xmax = 3225.79510204082 
+            text = "" 
+        intervals [1004]:
+            xmin = 3225.79510204082 
+            xmax = 3231.26009204082 
+            text = "automobile truck I would guess that we probably got the first one in about" 
+        intervals [1005]:
+            xmin = 3231.26009204082 
+            xmax = 3231.84010204082 
+            text = "" 
+        intervals [1006]:
+            xmin = 3231.84010204082 
+            xmax = 3235.74010204082 
+            text = "nineteen twenty or somewhere along in there" 
+        intervals [1007]:
+            xmin = 3235.74010204082 
+            xmax = 3236.96010204082 
+            text = "" 
+        intervals [1008]:
+            xmin = 3236.96010204082 
+            xmax = 3239.26009204082 
+            text = "But we always kept" 
+        intervals [1009]:
+            xmin = 3239.26009204082 
+            xmax = 3239.92009204082 
+            text = "" 
+        intervals [1010]:
+            xmin = 3239.92009204082 
+            xmax = 3242.22010204082 
+            text = "a horse or two at home" 
+        intervals [1011]:
+            xmin = 3242.22010204082 
+            xmax = 3242.78508204082 
+            text = "" 
+        intervals [1012]:
+            xmin = 3242.78508204082 
+            xmax = 3255.96012204082 
+            text = "to deliver the groceries with and even after we get the auto truck for use we still kept the horse because in the springtime it would be so muddy that particularly on the outside" 
+        intervals [1013]:
+            xmin = 3255.96012204082 
+            xmax = 3256.22010204082 
+            text = "" 
+        intervals [1014]:
+            xmin = 3256.22010204082 
+            xmax = 3261.32010204082 
+            text = "you couldn't use the truck anyway you had to use a horse and wagon because of the mud" 
+        intervals [1015]:
+            xmin = 3261.32010204082 
+            xmax = 3262.70012204082 
+            text = "" 
+        intervals [1016]:
+            xmin = 3262.70012204082 
+            xmax = 3266.44010204082 
+            text = "But we did have a model t truck" 
+        intervals [1017]:
+            xmin = 3266.44010204082 
+            xmax = 3267.10010204082 
+            text = "" 
+        intervals [1018]:
+            xmin = 3267.10010204082 
+            xmax = 3267.54010204082 
+            text = "and" 
+        intervals [1019]:
+            xmin = 3267.54010204082 
+            xmax = 3268.06010204082 
+            text = "" 
+        intervals [1020]:
+            xmin = 3268.06010204082 
+            xmax = 3280.55510204082 
+            text = "we used to use lot not only to deliver the groceries but also to draw the crates the crates of groceries and things from the railroad station up to the store" 
+        intervals [1021]:
+            xmin = 3280.55510204082 
+            xmax = 3281.47010204082 
+            text = "" 
+        intervals [1022]:
+            xmin = 3281.47010204082 
+            xmax = 3288.65012204082 
+            text = "And when I was twelve years old my dad began sending me out alone with the" 
+        intervals [1023]:
+            xmin = 3288.65012204082 
+            xmax = 3288.91010204082 
+            text = "" 
+        intervals [1024]:
+            xmin = 3288.91010204082 
+            xmax = 3299.31510204082 
+            text = "truck down to the railroad station to get the freight in spite of the fact that I was not able to have a drivers license until I was sixteen" 
+        intervals [1025]:
+            xmin = 3299.31510204082 
+            xmax = 3300.05510204082 
+            text = "" 
+        intervals [1026]:
+            xmin = 3300.05510204082 
+            xmax = 3309.74010204082 
+            text = "this used to bother my mother quite a lot she was afraid that somebody would report it but as far as I know no one ever did at least nothing was ever done about it anyway" 
+        intervals [1027]:
+            xmin = 3309.74010204082 
+            xmax = 3310.24010204082 
+            text = "" 
+        intervals [1028]:
+            xmin = 3310.24010204082 
+            xmax = 3319.69510204082 
+            text = "But occasionally too I would use the horse and get down with him to the railroad station to draw freight up to the store" 
+        intervals [1029]:
+            xmin = 3319.69510204082 
+            xmax = 3329.67510204082 
+            text = "Of course I couldn't handle any big things like barrels of flour but I could handle things like cases of canned goods and things like that without any trouble" 
+        intervals [1030]:
+            xmin = 3329.67510204082 
+            xmax = 3330.01512204082 
+            text = "" 
+        intervals [1031]:
+            xmin = 3330.01512204082 
+            xmax = 3337.23010204082 
+            text = "When we had flour coming in my dad or the clerk would go with me to bring that up from the railroad station" 
+        intervals [1032]:
+            xmin = 3337.23010204082 
+            xmax = 3342.77010204082 
+            text = "" 
+        intervals [1033]:
+            xmin = 3342.77010204082 
+            xmax = 3350.48510204082 
+            text = "Of course when I was quite small I really didn't enjoy working in the store very much but as I got older I" 
+        intervals [1034]:
+            xmin = 3350.48510204082 
+            xmax = 3350.98510204082 
+            text = "" 
+        intervals [1035]:
+            xmin = 3350.98510204082 
+            xmax = 3354.00510204082 
+            text = "I got so that I tolerated it at least" 
+        intervals [1036]:
+            xmin = 3354.00510204082 
+            xmax = 3354.74510204082 
+            text = "" 
+        intervals [1037]:
+            xmin = 3354.74510204082 
+            xmax = 3359.12510204082 
+            text = "Dad owned the truck for one month short of twenty years" 
+        intervals [1038]:
+            xmin = 3359.12510204082 
+            xmax = 3359.62510204082 
+            text = "" 
+        intervals [1039]:
+            xmin = 3359.62510204082 
+            xmax = 3363.04510204082 
+            text = "from nineteen oh nine to nineteen twenty nine" 
+        intervals [1040]:
+            xmin = 3363.04510204082 
+            xmax = 3364.51012204082 
+            text = "" 
+        intervals [1041]:
+            xmin = 3364.51012204082 
+            xmax = 3367.15010204082 
+            text = "He had originally" 
+        intervals [1042]:
+            xmin = 3367.15010204082 
+            xmax = 3370.09010204082 
+            text = "worked for Otis Hager in his store" 
+        intervals [1043]:
+            xmin = 3370.09010204082 
+            xmax = 3370.59010204082 
+            text = "" 
+        intervals [1044]:
+            xmin = 3370.59010204082 
+            xmax = 3378.49012204082 
+            text = "and then he bought this other store in North Dana which was of course in a competition with mister Hager" 
+        intervals [1045]:
+            xmin = 3378.49012204082 
+            xmax = 3379.36510204082 
+            text = "" 
+        intervals [1046]:
+            xmin = 3379.36510204082 
+            xmax = 3382.86512204082 
+            text = "And kept it as I say for practically twenty years" 
+        intervals [1047]:
+            xmin = 3382.86512204082 
+            xmax = 3383.60512204082 
+            text = "" 
+        intervals [1048]:
+            xmin = 3383.60512204082 
+            xmax = 3397.59010204082 
+            text = "And as soon as he was out of the store business himself the very next week he went right back to work at Hager's store although by this time it was owned and operated by Lester Hager Otis' son." 
+        intervals [1049]:
+            xmin = 3397.59010204082 
+            xmax = 3398.65010204082 
+            text = "" 
+        intervals [1050]:
+            xmin = 3398.65010204082 
+            xmax = 3400.23010204082 
+            text = "Although they were competitors" 
+        intervals [1051]:
+            xmin = 3400.23010204082 
+            xmax = 3400.97010204082 
+            text = "" 
+        intervals [1052]:
+            xmin = 3400.97010204082 
+            xmax = 3402.95010204082 
+            text = "right there in the village" 
+        intervals [1053]:
+            xmin = 3402.95010204082 
+            xmax = 3404.00510204082 
+            text = "" 
+        intervals [1054]:
+            xmin = 3404.00510204082 
+            xmax = 3404.94510204082 
+            text = "There were" 
+        intervals [1055]:
+            xmin = 3404.94510204082 
+            xmax = 3405.60512204082 
+            text = "" 
+        intervals [1056]:
+            xmin = 3405.60512204082 
+            xmax = 3408.78510204082 
+            text = "at times as many as four" 
+        intervals [1057]:
+            xmin = 3408.78510204082 
+            xmax = 3409.60512204082 
+            text = "" 
+        intervals [1058]:
+            xmin = 3409.60512204082 
+            xmax = 3418.36008204082 
+            text = "stores selling groceries in North Dana and always there were at least two stores Hager's and Doubleday's so although" 
+        intervals [1059]:
+            xmin = 3418.36008204082 
+            xmax = 3418.94008204082 
+            text = "" 
+        intervals [1060]:
+            xmin = 3418.94008204082 
+            xmax = 3420.12010204082 
+            text = "we were competitors" 
+        intervals [1061]:
+            xmin = 3420.12010204082 
+            xmax = 3421.26010204082 
+            text = "" 
+        intervals [1062]:
+            xmin = 3421.26010204082 
+            xmax = 3423.80008204082 
+            text = "we all still remained friends" 
+        intervals [1063]:
+            xmin = 3423.80008204082 
+            xmax = 3424.70010204082 
+            text = "" 
+        intervals [1064]:
+            xmin = 3424.70010204082 
+            xmax = 3436.72510204082 
+            text = "and we frequently checked with each other to make sure that neither one was charging prices which were very much higher or very much lower than the other one" 
+        intervals [1065]:
+            xmin = 3436.72510204082 
+            xmax = 3437.06510204082 
+            text = "" 
+        intervals [1066]:
+            xmin = 3437.06510204082 
+            xmax = 3451.86010204082 
+            text = "And also if we had an order for a certain article and we were temporarily out of it well we would stop over to Lester's Hager's store and pick up the article and he would do the same if he was out of something temporarily" 
+        intervals [1067]:
+            xmin = 3451.86010204082 
+            xmax = 3453.32010204082 
+            text = "" 
+        intervals [1068]:
+            xmin = 3453.32010204082 
+            xmax = 3463.80512204082 
+            text = "In fact the two families my parents and Lester Hager and his wife used to socialize quite regularly" 
+        intervals [1069]:
+            xmin = 3463.80512204082 
+            xmax = 3464.46510204082 
+            text = "" 
+        intervals [1070]:
+            xmin = 3464.46510204082 
+            xmax = 3466.36512204082 
+            text = "outside of store hours" 
+        intervals [1071]:
+            xmin = 3466.36512204082 
+            xmax = 3467.42513204082 
+            text = "" 
+        intervals [1072]:
+            xmin = 3467.42513204082 
+            xmax = 3482.41512204082 
+            text = "They and two other couples had a little bridge club in town a bridge club and they used to get together quite regularly to play bridge and I recall on time my father and mother and Lester and Marion Hager" 
+        intervals [1073]:
+            xmin = 3482.41512204082 
+            xmax = 3484.71512204082 
+            text = "took a vacation trip together" 
+        intervals [1074]:
+            xmin = 3484.71512204082 
+            xmax = 3485.29512204082 
+            text = "" 
+        intervals [1075]:
+            xmin = 3485.29512204082 
+            xmax = 3487.27512204082 
+            text = "So the competition was" 
+        intervals [1076]:
+            xmin = 3487.27512204082 
+            xmax = 3487.93510204082 
+            text = "" 
+        intervals [1077]:
+            xmin = 3487.93510204082 
+            xmax = 3489.91510204082 
+            text = "all was a friendly competition" 
+        intervals [1078]:
+            xmin = 3489.91510204082 
+            xmax = 3491.61510204082 
+            text = "" 
+        intervals [1079]:
+            xmin = 3491.61510204082 
+            xmax = 3500.04010204082 
+            text = "In nineteen twenty nine my father sold out to the metropolitan mystic water supply commission" 
+        intervals [1080]:
+            xmin = 3500.04010204082 
+            xmax = 3501.50010204082 
+            text = "" 
+        intervals [1081]:
+            xmin = 3501.50010204082 
+            xmax = 3509.00010204082 
+            text = "and he sold all of his property in one lump sum he owned a couple of houses and" 
+        intervals [1082]:
+            xmin = 3509.00010204082 
+            xmax = 3509.67510204082 
+            text = "" 
+        intervals [1083]:
+            xmin = 3509.67510204082 
+            xmax = 3516.77510204082 
+            text = "one or two timber lots and the store business and this all went for one price there was no" 
+        intervals [1084]:
+            xmin = 3516.77510204082 
+            xmax = 3518.39510204082 
+            text = "" 
+        intervals [1085]:
+            xmin = 3518.39510204082 
+            xmax = 3523.54776460435 
+            text = "way to distinguish how much you receive for any one of the units" 
+        intervals [1086]:
+            xmin = 3523.54776460435 
+            xmax = 3524.41014204082 
+            text = "" 
+        intervals [1087]:
+            xmin = 3524.41014204082 
+            xmax = 3527.99015204082 
+            text = "But he always figured that either you" 
+        intervals [1088]:
+            xmin = 3527.99015204082 
+            xmax = 3528.73015204082 
+            text = "" 
+        intervals [1089]:
+            xmin = 3528.73015204082 
+            xmax = 3532.63010204082 
+            text = "could say that he got a low price for everything" 
+        intervals [1090]:
+            xmin = 3532.63010204082 
+            xmax = 3534.09013204082 
+            text = "" 
+        intervals [1091]:
+            xmin = 3534.09013204082 
+            xmax = 3547.30515204082 
+            text = "or that he got a good fair price for his real estate and nothing for his store business but in any event he probably did not receive anywhere near as much as he" 
+        intervals [1092]:
+            xmin = 3547.30515204082 
+            xmax = 3547.88510204082 
+            text = "" 
+        intervals [1093]:
+            xmin = 3547.88510204082 
+            xmax = 3557.54010204082 
+            text = "really should have and could have had he taken the matter to court but he figured that in the long run he would be better off not going to court" 
+        intervals [1094]:
+            xmin = 3557.54010204082 
+            xmax = 3558.68010204082 
+            text = "" 
+        intervals [1095]:
+            xmin = 3558.68010204082 
+            xmax = 3561.38010204082 
+            text = "After he sold out to the state" 
+        intervals [1096]:
+            xmin = 3561.38010204082 
+            xmax = 3563.88005204082 
+            text = "" 
+        intervals [1097]:
+            xmin = 3563.88005204082 
+            xmax = 3569.59507204082 
+            text = "we continued to live in the same house that we had been living in he rented it from the state" 
+        intervals [1098]:
+            xmin = 3569.59507204082 
+            xmax = 3570.17510204082 
+            text = "" 
+        intervals [1099]:
+            xmin = 3570.17510204082 
+            xmax = 3570.87510204082 
+            text = "And" 
+        intervals [1100]:
+            xmin = 3570.87510204082 
+            xmax = 3571.37510204082 
+            text = "" 
+        intervals [1101]:
+            xmin = 3571.37510204082 
+            xmax = 3573.11510204082 
+            text = "he and my mother" 
+        intervals [1102]:
+            xmin = 3573.11510204082 
+            xmax = 3573.69510204082 
+            text = "" 
+        intervals [1103]:
+            xmin = 3573.69510204082 
+            xmax = 3574.87510204082 
+            text = "and my sister" 
+        intervals [1104]:
+            xmin = 3574.87510204082 
+            xmax = 3575.53510204082 
+            text = "" 
+        intervals [1105]:
+            xmin = 3575.53510204082 
+            xmax = 3580.47510204082 
+            text = "lived there until nineteen thirty eight that same place" 
+        intervals [1106]:
+            xmin = 3580.47510204082 
+            xmax = 3582.00017204082 
+            text = "" 
+        intervals [1107]:
+            xmin = 3582.00017204082 
+            xmax = 3586.86020204082 
+            text = "People frequently ask what did you do for amusement there" 
+        intervals [1108]:
+            xmin = 3586.86020204082 
+            xmax = 3587.54517006803 
+            text = "" 
+        intervals [1109]:
+            xmin = 3587.54517006803 
+            xmax = 3588.06517003803 
+            text = "" 
+        intervals [1110]:
+            xmin = 3588.06517003803 
+            xmax = 3596.92517006803 
+            text = "Well of course we did not have television in those days but we did have radio after nineteen twenty two anyway" 
+        intervals [1111]:
+            xmin = 3596.92517006803 
+            xmax = 3597.98516906803 
+            text = "" 
+        intervals [1112]:
+            xmin = 3597.98516906803 
+            xmax = 3601.258082298499 
+            text = "And there were such things as the grange" 
+        intervals [1113]:
+            xmin = 3601.258082298499 
+            xmax = 3601.66517006803 
+            text = "" 
+        intervals [1114]:
+            xmin = 3601.66517006803 
+            xmax = 3604.61017006803 
+            text = "Of course that met twice a month" 
+        intervals [1115]:
+            xmin = 3604.61017006803 
+            xmax = 3606.07017006803 
+            text = "" 
+        intervals [1116]:
+            xmin = 3606.07017006803 
+            xmax = 3610.53017006803 
+            text = "And nearly everyone in the village belonged to that it was" 
+        intervals [1117]:
+            xmin = 3610.53017006803 
+            xmax = 3612.39017006803 
+            text = "" 
+        intervals [1118]:
+            xmin = 3612.39017006803 
+            xmax = 3620.02517006803 
+            text = "a regular social event but then you also had church sponsored events like parties and" 
+        intervals [1119]:
+            xmin = 3620.02517006803 
+            xmax = 3620.84517006803 
+            text = "" 
+        intervals [1120]:
+            xmin = 3620.84517006803 
+            xmax = 3633.18017006803 
+            text = "things of that sort and then you had private parties birthday parties and halloween parties and things like that and of course we could play cards" 
+        intervals [1121]:
+            xmin = 3633.18017006803 
+            xmax = 3634.56017006803 
+            text = "" 
+        intervals [1122]:
+            xmin = 3634.56017006803 
+            xmax = 3639.18017006803 
+            text = "And in season we did a lot of hunting and fishing" 
+        intervals [1123]:
+            xmin = 3639.18017006803 
+            xmax = 3640.24017006803 
+            text = "" 
+        intervals [1124]:
+            xmin = 3640.24017006803 
+            xmax = 3641.74017006803 
+            text = "swimming in the summertime" 
+        intervals [1125]:
+            xmin = 3641.74017006803 
+            xmax = 3642.96016806803 
+            text = "" 
+        intervals [1126]:
+            xmin = 3642.96016806803 
+            xmax = 3657.69517006803 
+            text = "My folks build a camp on Lake Meesataunsett which was about a mile from the village so that we were able to just move up there and live there all summer long and operate the grocery store from there" 
+        intervals [1127]:
+            xmin = 3657.69517006803 
+            xmax = 3658.19517006803 
+            text = "" 
+        intervals [1128]:
+            xmin = 3658.19517006803 
+            xmax = 3668.74017006803 
+            text = "Mother used to come down to the village on Mondays and do the family washing because we had the electric washing machine at home of course" 
+        intervals [1129]:
+            xmin = 3668.74017006803 
+            xmax = 3670.92625426469 
+            text = "" 
+        intervals [1130]:
+            xmin = 3670.92625426469 
+            xmax = 3671.539609778 
+            text = "but" 
+        intervals [1131]:
+            xmin = 3671.539609778 
+            xmax = 3672.20016606803 
+            text = "" 
+        intervals [1132]:
+            xmin = 3672.20016606803 
+            xmax = 3685.53517006803 
+            text = "I enjoyed that those summers at camp although of course we were pretty busy in the store so we didn't have too much leisure time but we we had time to go fishing once in a while" 
+        intervals [1133]:
+            xmin = 3685.53517006803 
+            xmax = 3686.09017006803 
+            text = "" 
+        intervals [1134]:
+            xmin = 3686.09017006803 
+            xmax = 3689.27017606803 
+            text = "And as I said we did a lot of hunting too" 
+        intervals [1135]:
+            xmin = 3689.27017606803 
+            xmax = 3690.25017006803 
+            text = "" 
+        intervals [1136]:
+            xmin = 3690.25017006803 
+            xmax = 3691.99017006803 
+            text = "around the area" 
+        intervals [1137]:
+            xmin = 3691.99017006803 
+            xmax = 3692.81017406803 
+            text = "" 
+        intervals [1138]:
+            xmin = 3692.81017406803 
+            xmax = 3701.85517006803 
+            text = "My dad used to enjoy hunting partridges very much and we could take one or two afternoons a week off" 
+        intervals [1139]:
+            xmin = 3701.85517006803 
+            xmax = 3702.51517006803 
+            text = "" 
+        intervals [1140]:
+            xmin = 3702.51517006803 
+            xmax = 3715.73017006803 
+            text = "most of the afternoon anyway from the store in partridge season and we had a lot of different covers if we could go through and ask for another and drive from one to another in a car" 
+        intervals [1141]:
+            xmin = 3715.73017006803 
+            xmax = 3716.23017006803 
+            text = "" 
+        intervals [1142]:
+            xmin = 3716.23017006803 
+            xmax = 3717.65017006803 
+            text = "in that way why" 
+        intervals [1143]:
+            xmin = 3717.65017006803 
+            xmax = 3718.15018006803 
+            text = "" 
+        intervals [1144]:
+            xmin = 3718.15018006803 
+            xmax = 3725.57017006803 
+            text = "you could hunt all day long if you had the opportunity because once you went through the" 
+        intervals [1145]:
+            xmin = 3725.57017006803 
+            xmax = 3726.80671693436 
+            text = "" 
+        intervals [1146]:
+            xmin = 3726.80671693436 
+            xmax = 3737.12517006803 
+            text = "list of covers that we had where you could go back and start over again and you could cover them maybe two or three times the same day and and still see plenty of partridge" 
+        intervals [1147]:
+            xmin = 3737.12517006803 
+            xmax = 3770.62498866213 
+            text = "" 
