@@ -1,0 +1,3 @@
+*.wav
+vox-humana_outputs/slurm_errors
+*.out
