@@ -1,0 +1,4 @@
+2026-11-21 19:05:02,147 - kalpy.cmvn - INFO - Reading features from: /work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/mfa_corpus/feats.scp
+2026-11-21 19:05:02,147 - kalpy.cmvn - INFO - Reading spk2utt from: /work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/mfa_corpus/spk2utt.scp
+2026-11-21 19:05:02,156 - kalpy.cmvn - DEBUG - Writing to: ark,scp:/work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/mfa_corpus/cmvn.ark,/work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/mfa_corpus/cmvn.scp
+2026-11-21 19:05:02,160 - kalpy.cmvn - INFO - Processing speaker 1: 73 utterances
