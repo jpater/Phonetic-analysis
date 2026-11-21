@@ -1,0 +1,21 @@
+2026-11-21 19:05:13,440 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Computing transforms from scratch
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Feature Archive information:
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - CMVN: None
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Deltas: False
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Splices: True
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - LDA: /work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/alignment/lda.mat
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - fMLLR: None
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Model information:
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Align model path: /work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/alignment/final.alimdl
+2026-11-21 19:05:13,445 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Model path: /work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/alignment/final.mdl
+2026-11-21 19:05:13,962 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - Alignment path: /work/pi_pater_umass_edu/Phonetic-analysis/vox-humana_outputs/mfa_temp/mfa_corpus/alignment/ali.english_us_arpa.1.ark
+2026-11-21 19:05:13,970 - kalpy.fmllr - 134092137002688 - 1 - INFO - Processing speaker 1...
+2026-11-21 19:05:14,137 - kalpy.fmllr - 134092137002688 - 1 - INFO - Skipping 1-43 due to missing alignment.
+2026-11-21 19:05:14,237 - kalpy.fmllr - 134092137002688 - 1 - INFO - Skipping 1-60 due to missing alignment.
+2026-11-21 19:05:14,290 - kalpy.fmllr - 134092137002688 - 1 - INFO - Skipping 1-70 due to missing alignment.
+2026-11-21 19:05:14,290 - kalpy.fmllr - 134092137002688 - 1 - INFO - Skipping 1-71 due to missing alignment.
+2026-11-21 19:05:14,290 - kalpy.fmllr - 134092137002688 - 1 - INFO - Skipping 1-72 due to missing alignment.
+2026-11-21 19:05:14,384 - kalpy.fmllr - 134092137002688 - 1 - DEBUG - For speaker 1, auxf-impr from fMLLR is 16.307205348299767, over 45435.0 frames.
+2026-11-21 19:05:14,384 - kalpy.fmllr - 134092137002688 - 1 - INFO - Done 68 utterances.
+2026-11-21 19:05:14,385 - kalpy.fmllr - 134092137002688 - 1 - INFO - Skipped 5 utterances.
+2026-11-21 19:05:14,385 - kalpy.fmllr - 134092137002688 - 1 - INFO - Overall fMLLR auxf impr per frame is 16.307205348299767 over 45435.0 frames.
